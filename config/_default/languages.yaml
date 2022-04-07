@@ -1,14 +1,37 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
+#   Documentation: https://wowch  emy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+fr:
+  langaugeCode: fr-fr
+  # contentDir: content
 
 # Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en-us
+  contentDir: content/en
+  # title: Jérémy Garniaux, geographer, mapmaker & developer
+  params:
+    description:
+  menu:
+    main:
+    - name: Home
+      url: '#about'
+      weight: 10
+    - name: Blog
+      url: '#blog'
+      weight: 20
+    - name: Present
+      url: '#present'
+      weight: 30
+    - name: Past
+      url: '#past'
+      weight: 40
+    - name: Contact
+      url: '#contact'
+      weight: 50
+
 #zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh

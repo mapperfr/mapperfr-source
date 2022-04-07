@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Derniers articles
 subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      -  carnet
     tag: ''
     category: ''
     publication_type: ''

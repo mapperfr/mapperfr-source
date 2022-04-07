@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: earth
+  theme_night: earth
   font: minimal
-  font_size: L
+  font_size: S
 
 # SEO
 
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Mapper'
+    description: 'Site personnel de Jérémy Garniaux, géographe, cartographe et développeur.'
+    twitter: 'mapperfr'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,10 +41,10 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jérémy Garniaux. Contenu disponible sous licence {license}'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
 
@@ -74,7 +74,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
