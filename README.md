@@ -1,5 +1,9 @@
-# Code source de mapper.fr
+# Mapper.fr source code
 
-Site construit avec le générateur de sites statiques Hugo et basé sur le template "Résumé" du [thème Academic](https://github.com/wowchemy/starter-hugo-academic) de [Wowchemy](https://wowchemy.com). Déployé chez Netlify.
+Built with Hugo. Based on the Résumé template of the [Academic theme](https://github.com/wowchemy/starter-hugo-academic) from [Wowchemy](https://wowchemy.com).
 
-Visiter le site: https://mapper.fr
+Deployed on Netlify.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c6f2a7aa-a450-493b-b92b-d5be0b58d5ca/deploy-status)](https://app.netlify.com/sites/mapperfr/deploys)
+
+[mapper.fr](https://mapper.fr)
