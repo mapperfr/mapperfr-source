@@ -21,7 +21,7 @@ feature:
   icon_pack: custom
   name: QGIS
 - description: Avancé
-- icon: inkscape
+  icon: inkscape
   icon_pack: custom
   name: Inkscape
 - description: Intermédiaire
