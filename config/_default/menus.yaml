@@ -16,12 +16,6 @@ main:
   - name: Carnet
     url: '#carnet'
     weight: 40
-  # - name: Présent
-  #   url: '#present'
-  #   weight: 30
-  #  - name: Parcours
-  #    url: '#parcours'
-  #   weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
