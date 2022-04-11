@@ -29,10 +29,9 @@ feature:
   icon: django
   icon_pack: custom
   description: Débutant
-- name: Gestion de projet
-  icon: list-check
-  icon-pack: fas
-  description: Intermédiaire
+- name: PostgreSQL
+  icon: postgresql
+  icon_pack: custom
 
 
 # Uncomment to use emoji icons.
