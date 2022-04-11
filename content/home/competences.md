@@ -20,15 +20,19 @@ feature:
 - name: QGIS
   icon: qgis
   icon_pack: custom
-  description: 90%
+  description: Avancé
 - name: Inkscape
   icon: inkscape
   icon_pack: custom
-  description: 75%
+  description: Avancé
 - name: Django
   icon: django
   icon_pack: custom
-  description: 30%
+  description: Débutant
+- name: Gestion de projet
+  icon: list-check
+  icon-pack: fas
+  description: Intermédiaire
 
 
 # Uncomment to use emoji icons.
