@@ -17,8 +17,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-- name: 
-
 - name: QGIS
   icon: qgis
   icon_pack: custom
