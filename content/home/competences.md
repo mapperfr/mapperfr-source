@@ -17,10 +17,14 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Avancé
-  icon: qgis-icon128
+  icon: qgis
   icon_pack: custom
   name: QGIS
-- description: 100%
+- description: Avancé
+- icon: inkscape
+  icon_pack: custom
+  name: Inkscape
+- description: Intermédiaire
   icon: chart-line
   icon_pack: fas
   name: Statistics
