@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Avancé
+
+- name: 
+
+- name: QGIS
   icon: qgis
   icon_pack: custom
-  name: QGIS
-- description: Avancé
+  decription: 90%
+- name: Inkscape
   icon: inkscape
   icon_pack: custom
-  name: Inkscape
-- description: Intermédiaire
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+  description: 75%
+- name: Django
+  icon: django
+  icon_pack: custom
+  description: 30%
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
