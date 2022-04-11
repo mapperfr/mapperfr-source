@@ -20,7 +20,7 @@ feature:
 - name: QGIS
   icon: qgis
   icon_pack: custom
-  decription: 90%
+  description: 90%
 - name: Inkscape
   icon: inkscape
   icon_pack: custom
