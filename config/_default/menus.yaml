@@ -9,16 +9,13 @@ main:
     weight: 10
   - name: Parcours
     url: '#parcours'
-    weight: 30
-  - name: Compétences
-    url: '#competences'
     weight: 20
   - name: Carnet
     url: '#carnet'
-    weight: 40
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
