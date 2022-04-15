@@ -14,12 +14,12 @@ organizations:
   url: https://www.mmsh.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Développeur pour la science ouverte en archéologie.
+bio: Développeur pour la science ouverte en archéologie
 
 # Interests to show in About widget
 interests:
 - Données ouvertes
-- _Data papers_ et science ouverte
+- _Open data_ et science ouverte
 - Géomatique et cartographie
 
 # Education to show in About widget
@@ -28,9 +28,9 @@ education:
   - course: Master Géographie - Mondialisation et développement
     institution: Aix-Marseille Université
     year: 2009
-  - course: Licence de géographie
-    institution: Aix-Marseille Université
-    year: 2005
+  # - course: Licence de géographie
+  #   institution: Aix-Marseille Université
+  #   year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,8 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Jérémy Garniaux est ingénieur d'études au [LAMPEA](https://lampea.cnrs.fr). Il coordonne le développement d'[ArcaDIIS](https://arcadiis.science), infrastructure de  données archéologiques pour l'interopérabilité et le partage. Il participe aux travaux du Pôle édition de la MMSH et mène différents chantiers au service de la science ouverte au sein de [l'Institut Arkaia](https://www.univ-amu.fr/arkaia), comme la refonte de la publication scientifique en ligne [OrAG](http://labexmed.fr/fr/project/orag/index.html). Il est également chargé de cours en cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier et à l'IUT de Béziers.   
+Géographe de formation, mon parcours est tissé d'approches croisées et de thématiques récurrentes.Après avoir exercé comme cartographe indépendant, comme artiste-auteur au sein du collectif [La Folie Kilomètre](https://lafoliekilometre.org) ou bien comme ingénieur d'études au service de la recherche en urbanisme, j'ai rejoint le [LAMPEA](https://lampea.cnrs.fr) en 2020 pour coordonner le développement d'[ArcaDIIS](https://arcadiis.science), infrastructure de données archéologiques pour l'interopérabilité et le partage. Je suis également chargé de cours en cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier, et à l'IUT de Béziers.
 
-Il a exercé auparavant en tant que cartographe indépendant, puis comme ingénieur d'études au sein du [LPED](https://lped.fr) et comme ingénieur de recherche à la [SATT Sud-Est](https://sattse.com), où il a conçu et fabriqué la maquette [_Macli_](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) de simulation de l'îlot de chaleur urbain.
+Mes outils de prédilection sont la cartographie ("objective" comme subjective) la géomatique et le développement web.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}CV complet{{< /staticref >}}
