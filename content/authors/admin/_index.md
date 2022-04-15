@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/cv_garniaux_2022.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/cv_garniaux_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jeremy@mapper.fr"
@@ -74,4 +74,4 @@ Jérémy Garniaux est ingénieur d'études au [LAMPEA](https://lampea.cnrs.fr). 
 
 Il a exercé auparavant en tant que cartographe indépendant, puis comme ingénieur d'études au sein du [LPED](https://lped.fr) et comme ingénieur de recherche à la [SATT Sud-Est](https://sattse.com), où il a conçu et fabriqué la maquette [_Macli_](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) de simulation de l'îlot de chaleur urbain.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV complet{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}CV complet{{< /staticref >}}
