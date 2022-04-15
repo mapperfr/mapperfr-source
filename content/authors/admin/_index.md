@@ -70,8 +70,8 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Géographe de formation, mon parcours est tissé d'approches croisées et de thématiques récurrentes.Après avoir exercé comme cartographe indépendant, comme artiste-auteur au sein du collectif [La Folie Kilomètre](https://lafoliekilometre.org) ou bien comme ingénieur d'études au service de la recherche en urbanisme, j'ai rejoint le [LAMPEA](https://lampea.cnrs.fr) en 2020 pour coordonner le développement d'[ArcaDIIS](https://arcadiis.science), infrastructure de données archéologiques pour l'interopérabilité et le partage. Je suis également chargé de cours en cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier, et à l'IUT de Béziers.
+Géographe de formation, mon parcours est tissé d'approches croisées et de thématiques récurrentes.  Après avoir exercé comme cartographe indépendant, comme artiste-auteur au sein du collectif [La Folie Kilomètre](https://lafoliekilometre.org) ou bien comme ingénieur d'études au service de la recherche en urbanisme, j'ai rejoint le [LAMPEA](https://lampea.cnrs.fr) en 2020 pour coordonner le développement d'[ArcaDIIS](https://arcadiis.science), infrastructure de données archéologiques pour l'interopérabilité et le partage. Je suis également chargé de cours en cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier, et à l'IUT de Béziers.
 
-Mes outils de prédilection sont la cartographie ("objective" comme subjective) la géomatique et le développement web.
+Mes outils de prédilection sont la cartographie ("objective" comme subjective !) la géomatique et le développement web.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}CV complet{{< /staticref >}}
