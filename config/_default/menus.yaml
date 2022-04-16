@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  # - name: "My Widget Page"  
+  #   url: "landing/" 
+  #   weight: 2 
   - name: À propos
     url: '#apropos'
     weight: 10

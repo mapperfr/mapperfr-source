@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Parcours
-subtitle: Expériences professionnelles
+subtitle: Principales expériences professionnelles
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -48,7 +48,7 @@ experience:
         
         Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et manipulation de données, cartographie thématique. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus.
 
-  - title: Ingénieur de recherche, projet Climat
+  - title: Ingénieur de recherche, projet *Climat*
     company: SATT Sud-Est
     company_url: 'https://sattse.com'
     company_logo: sattse
@@ -57,7 +57,7 @@ experience:
     date_end: '2018-11-01'
     description: |2-  
 
-        Conception et développement de [la maquette MACLI](https://www.sattse.com/16262/) de simulation de l'îlot de chaleur urbain, en partenariat avec le rectorat de l’Académie d'Aix-Marseille. Participation à la conception et mise en place d’une campagne de mesure de l’îlot de chaleur urbain à Marseille en situation de canicule. 
+        Conception et développement de [la maquette MACLI](https://www.sattse.com/16262/) de simulation de l'îlot de chaleur urbain, en partenariat avec le rectorat de l’Académie d'Aix-Marseille. Participation à la conception et mise en place d’une campagne de mesure de l’îlot de chaleur urbain à Marseille en situation de canicule. Grâce à un parte­nar­i­at avec le rec­torat d’Aix-Mar­seille, trois exem­plaires de la maque­tte ont cir­culé dans plusieurs col­lèges et lycées pen­dant un an, accom­pa­g­nées d’un pro­gramme péd­a­gogique dédié, con­tribuant à sen­si­bilis­er les plus jeunes aux ques­tions cli­ma­tiques et écologiques en milieu urbain.
         
   - title: Ingénieur d'études, géomaticien
     company: LPED, Aix-Marseille Université
@@ -90,7 +90,7 @@ experience:
     date_end: '2014-12-31'
     description: |2-
 
-        "*Basée à Marseille, La Folie Kilomètre est un collectif de création en espace public fondé en 2011. Elle regroupe des artistes issus du spectacle vivant, des arts plastiques et de l’aménagement du territoire. À la croisée de ces pratiques, nous imaginons des expéditions, spectacles, promenades et ateliers. De la cartographie sensible à la création sonore, de l’installation visuelle au tableau vivant, les disciplines dialoguent et leurs contours se fondent dans un langage métissé. Monumentales ou minuscules, nos interventions jouent avec les échelles des lieux et les niveaux de lecture.*"
+        "Basée à Marseille, La Folie Kilomètre est un collectif de création en espace public fondé en 2011. Elle regroupe des artistes issus du spectacle vivant, des arts plastiques et de l’aménagement du territoire. À la croisée de ces pratiques, nous imaginons des expéditions, spectacles, promenades et ateliers. De la cartographie sensible à la création sonore, de l’installation visuelle au tableau vivant, les disciplines dialoguent et leurs contours se fondent dans un langage métissé. Monumentales ou minuscules, nos interventions jouent avec les échelles des lieux et les niveaux de lecture."
 
   - title: Géographe et cartographe *freelance*
     company: Mapper.fr
@@ -103,6 +103,16 @@ experience:
         
         Cartographie print, ateliers participatif, cartographie web dynamique, assistance à projets culturels et artistiques à dimension territoriale, etc. Clients : Libération, ATTAC, Marseille-Provence 2013, MuCEM, Mairie de Marseille, Cité des Arts de la Rue, les Éditions Lignes, Wildproject, Radio Grenouille...
 
+  - title: Géomaticien
+    company: LPED, Aix-Marseille Université
+    company_url: 'https://lped.fr'
+    company_logo: lped
+    location: Marseille
+    date_start: '2010-01-01'
+    date_end: '2010-12-31'
+    description: |2-
+
+        Chargé d’études en géomatique dans le cadre du programme de recherche PUCA « enclaves résidentielles à Marseille » (LPED-UMR 151). Conception du SIG et du protocole d’enquête de terrain, cartographie, analyse spatiale, coordination des enquêtes de terrain.
 
 design:
   columns: '2'
