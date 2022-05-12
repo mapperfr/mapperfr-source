@@ -6,34 +6,31 @@ title: Jérémy Garniaux
 superuser: true
 
 # Role/position/tagline
-role: Géographe, développeur pour la science ouverte en archéologie
+# role: Geographer, developer for the open science in Archaeology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Aix-Marseille Université, Maison Méditerranéenne des Sciences de l'Homme
-  url: https://www.univ-amu.fr
+- name: Aix-Marseille University, Maison Méditerranéenne des Sciences de l'Homme
+  url: https://www.mmsh.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Geographer, developer for the open science in Archaeology
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Open data and open science
+- Cartography and representations of space
+- Spatial analysis and geomatics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Master's degree in Geography and Geomatics
+    institution: Aix-Marseille University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  # - course: Licence de géographie
+  #   institution: Aix-Marseille Université
+  #   year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,18 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Géo­graphe de for­ma­tion, je tra­vaille au sein du LAMPEA, lab­o­ra­toire d’archéolo­gie de la préhis­toire méditer­ranéenne à Aix-en-Provence, au développe­ment d’ArcaDI­IS, infra­struc­ture de don­nées archéologiques pour l’in­teropéra­bil­ité et le partage. Mes intérêts actuels tour­nent autour de la sci­ence ouverte, des data papers et du web sémantique.
+I'm a geographer working at [LAMPEA](https://lampea.cnrs.fr) lab in Aix-en-Provence, France, where I'm deploying [ArcaDIIS](https://arcadiis.science), an Archaeological Data Infrastructure for Interoperability and Sharing. I've been working previously as a freelance mapmaker and geographer, as a project manager at [LPED](https://lped.fr) for the [MC3 international research network](http://mc3.lped.fr) and as a research engineer at [SATT Sud-Est](https://sattse.com/). With a team of urban planners and climatologists, I conceived and build the MACLI pedagogical model for the simulation of the urban heat island. 
 
-J’ai tra­vail­lé aupar­a­vant comme géo­graphe et car­tographe indépen­dant, puis comme ingénieur d’é­tudes au LPED où j’ai coor­don­né la mise en place d’un réseau de recherche inter­na­tion­al autour des villes méditer­ranéennes et du change­ment climatique.
+Géo­graphe et géomaticien de for­ma­tion, je tra­vaille au sein du [LAMPEA](https://lampea.cnrs.fr) à Aix-en-Provence au développe­ment d'[ArcaDIIS](https://arcadiis.science), infra­struc­ture de don­nées archéologiques pour l’in­teropéra­bil­ité et le partage. J’ai exercé aupar­a­vant comme géo­graphe et car­tographe indépen­dant, comme chargé de projet au [LPED](https://lped.fr) où j’ai coor­don­né la mise en place d’un [réseau de recherche inter­na­tion­al](http://mc3.lped.fr) autour des villes méditer­ranéennes et du change­ment climatique, puis comme ingénieur de recherche au sein de la [SATT Sud-Est](https://sattse.com/). J'y ai conçu et fab­riqué la [maque­tte MACLI](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) de sim­u­la­tion de l’îlot de chaleur urbain, au sein d'une équipe d’ur­ban­istes et de cli­ma­to­logues.  
 
-J’ai ensuite passé un an au sein de la SATT Sud-Est comme ingénieur de recherche, où j’ai conçu et fab­riqué la maque­tte MACLI de sim­u­la­tion de l’îlot de chaleur urbain, au sein une équipe d’ur­ban­istes et de cli­ma­to­logues. Grâce à un parte­nar­i­at avec le rec­torat d’Aix-Mar­seille, trois exem­plaires de la maque­tte ont cir­culé dans plusieurs col­lèges et lycées pen­dant un an, accom­pa­g­nées d’un pro­gramme péd­a­gogique dédié, con­tribuant à sen­si­bilis­er les plus jeunes aux ques­tions cli­ma­tiques et écologiques en milieu urbain.
-
-Musi­cien, je suis mem­bre du col­lec­tif La Folie Kilo­mètre et je développe une pra­tique mixte, entre instru­ments con­ven­tion­nels et élec­tron­iques. Enfin, quand la météo est bonne, je m’ap­plique à devenir un meilleur marin !
-
-Vous pou­vez me con­tac­ter à [mon prénom sans les accents] arobase [ce nom de domaine] point fr, venir échang­er sur Twit­ter et Mastodon, ou m’en­voy­er une carte postale à :
-
-Jérémy Gar­ni­aux
-Cap­i­tainer­ie du Frioul
-13007 Mar­seille
-France.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}CV complet{{< /staticref >}}

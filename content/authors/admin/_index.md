@@ -6,7 +6,7 @@ title: Jérémy Garniaux
 superuser: true
 
 # Role/position/tagline
-role: Géographe, cartographe & développeur
+# role: Géographe, cartographe & développeur
 
 # Organizations/Affiliations to show in About widget
 organizations:
