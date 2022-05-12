@@ -1,6 +1,6 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://wowch  emy.com/docs/guide/language/
+#   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
 fr:
@@ -12,9 +12,9 @@ fr:
 en:
   languageCode: en-us
   contentDir: content/en
-  title: Jérémy Garniaux, geographer, mapmaker & developer
+  title: Jérémy Garniaux
   params:
-    description:
+    description: Personal website of Jérémy Garniaux, geographer, mapmaker & developer.
   menu:
     main:
     - name: About
