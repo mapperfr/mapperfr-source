@@ -9,29 +9,26 @@ fr:
 
 # Uncomment the lines below to configure your website in a second language.
 
-# en:
-#   languageCode: en-us
-#   contentDir: content/en
-  # title: Jérémy Garniaux, geographer, mapmaker & developer
-  # params:
-  #   description:
-  # menu:
-  #   main:
-  #   - name: Home
-  #     url: '#about'
-  #     weight: 10
-  #   - name: Blog
-  #     url: '#blog'
-  #     weight: 20
-  #   - name: Present
-  #     url: '#present'
-  #     weight: 30
-  #   - name: Past
-  #     url: '#past'
-  #     weight: 40
-  #   - name: Contact
-  #     url: '#contact'
-  #     weight: 50
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: Jérémy Garniaux, geographer, mapmaker & developer
+  params:
+    description:
+  menu:
+    main:
+    - name: About
+      url: '#about'
+      weight: 10
+    - name: Resume
+      url: '#resume'
+      weight: 20
+    - name: Blog
+      url: '#blog'
+      weight: 30
+    - name: Contact
+      url: '#contact'
+      weight: 40
 
 #zh:
 #  languageCode: zh-Hans
