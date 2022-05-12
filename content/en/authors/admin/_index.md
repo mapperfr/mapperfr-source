@@ -6,7 +6,7 @@ title: Jérémy Garniaux
 superuser: true
 
 # Role/position/tagline
-# role: Geographer, developer for the open science in Archaeology
+role: Geographer, mapmaker and developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,8 +19,8 @@ bio: Geographer, developer for the open science in Archaeology
 # Interests to show in About widget
 interests:
 - Open data and open science
-- Cartography and representations of space
-- Spatial analysis and geomatics
+- Cartography, spatial analysis, geomatics
+- Metadata and linked open data
 
 # Education to show in About widget
 education:
