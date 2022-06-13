@@ -5,7 +5,7 @@
 # Default language
 fr:
   langaugeCode: fr-fr
-  # contentDir: content
+  contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
 
