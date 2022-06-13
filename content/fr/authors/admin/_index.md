@@ -18,9 +18,9 @@ bio: Géographe, développeur pour la science ouverte en archéologie
 
 # Interests to show in About widget
 interests:
-- _Open data_ et science ouverte
-- Cartographie et représentations de l'espace
-- Analyse spatiale et géomatique
+- Open data et science ouverte (LOD, LOV)
+- Cartographie et analyse spatiale
+- Web design, IHM
 
 # Education to show in About widget
 education:
