@@ -14,7 +14,7 @@ en:
   contentDir: content/en
   title: Jérémy Garniaux
   params:
-    description: Personal website of Jérémy Garniaux, geographer, mapmaker & developer.
+    description: Personal website of Jérémy Garniaux, geographer, mapmaker & developer
   menu:
     main:
     - name: About
