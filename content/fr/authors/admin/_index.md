@@ -6,7 +6,7 @@ title: Jérémy Garniaux
 superuser: true
 
 # Role/position/tagline
-# role: Géographe, cartographe & développeur
+role: Développeur pour la science ouverte en archéologie
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: https://www.mmsh.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Géographe, développeur pour la science ouverte en archéologie
+bio: Géographe, cartographe et développeur
 
 # Interests to show in About widget
 interests:
-- Open data et science ouverte (LOD, LOV)
+- Linked open data et science ouverte
 - Cartographie et analyse spatiale
-- Web design, IHM
+- Développement web et UI
 
 # Education to show in About widget
 education:
