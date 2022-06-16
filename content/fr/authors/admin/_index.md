@@ -14,7 +14,7 @@ organizations:
   url: https://www.mmsh.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Géographe, cartographe et développeur
+bio: Géographe, cartographe & développeur
 
 # Interests to show in About widget
 interests:
