@@ -44,7 +44,7 @@ La Loire et son bassin-ver­sant s’étalent sur un tam­pon entier. En remon­
 ![](IMG_3680_2.jpg)
 ![](IMG_3680.jpg)
 
-_(Inter­lude : je me demande ce que représen­tent les lignes pointil­lées qu’on voit sur presque tous les tam­pons. Ni bassins-ver­sants ni régions admin­is­tra­tives, je penche pour une clas­si­fi­ca­tion géo­graphique spé­ci­fique à cette col­lec­tion. Des&nbsp;idées&nbsp;?)&nbsp;_
+_(Inter­lude : je me demande ce que représen­tent les lignes pointil­lées qu’on voit sur presque tous les tam­pons. Ni bassins-ver­sants ni régions admin­is­tra­tives, je penche pour une clas­si­fi­ca­tion géo­graphique spé­ci­fique à cette col­lec­tion. Des idées?)_
 
 Le tam­pon Ouest, plus petit, est aus­si moins riche en élé­ments géo­graphiques : au nord, la Loire et la Sèvre Nan­taise, au cen­tre la Sèvre Nior­taise, au sud la Char­ente, un trait oblique pour le relief et c’est tout. Le tam­pon y gagne en netteté.
 
@@ -56,11 +56,11 @@ En con­tin­u­ant vers le sud, on décou­vre une carte plus foi­son­nante d
 ![](IMG_3677.jpg)
 ![](IMG_3677_2.jpg)
 
-Le tour de France se ter­mine sur les Pyrénées. Ici, pas de nou­veautés : A l’Est, on retrou­ve Aude et Têt, tan­dis qu’Ar­iège, Garonne, Save, Gers et Baïse, Adour et Gave de Pau vien­nent pren­dre déli­cate­ment leur source au pied des Pyrénées ariégeoises.
+Le tour de France se ter­mine sur les Pyrénées. Ici, pas de nou­veautés : A l’est, on retrou­ve Aude et Têt, tan­dis qu’Ar­iège, Garonne, Save, Gers et Baïse, Adour et Gave de Pau vien­nent pren­dre déli­cate­ment leur source au pied des Pyrénées ariégeoises.
 
 ![](IMG_3678.jpg)
 ![](IMG_3678_2.jpg)
 
-Le grand Sud-Est brille par son absence mais la balade se ter­mine ! Pour con­clure en changeant un peu d’échelle, je vous laisse avec cette presque-France de tam­pons, bidouil­lée sous Inkscape, mais qu’on imag­in­erait bien sur une feuille de buvard bleu 24x32...
+Le grand Sud-Est brille par son absence mais la balade se ter­mine ! Pour con­clure en changeant un peu d’échelle, je vous laisse avec cette presque-France de tam­pons, bidouil­lée sous Inkscape, mais qu’on imag­in­erait bien sur une feuille de buvard bleu 24x32.
 
 ![](presquefrance-1024x950.png)
