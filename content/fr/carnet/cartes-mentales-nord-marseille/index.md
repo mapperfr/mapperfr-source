@@ -47,7 +47,7 @@ Et face au rythme effréné de la con­struc­tion, Lynch introduit:
 
 Cette dernière cita­tion rap­pelle la pos­ture de l’au­teur, qui adopte un ton large­ment pre­scrip­tif. La con­clu­sion de ce tra­vail est la défense d’un besoin de lis­i­bil­ité ou d’**imag­i­bil­ité** de notre envi­ron­nement urbain, c’est-à-dire la capac­ité d’un espace à provo­quer "une image forte chez n’im­porte quel observateur"."
 
-![](carte-de-mots.jpg)
+![](carte_de_mots.jpg)
 
 ## L’atelier “cartes mentales”
 
