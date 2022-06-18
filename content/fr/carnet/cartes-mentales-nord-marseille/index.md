@@ -45,7 +45,7 @@ Et face au rythme effréné de la con­struc­tion, Lynch introduit:
 
 > Avec le rythme actuel de la con­struc­tion, il n’y a pas assez de temps pour que la forme s’a­juste lente­ment aux petites forces indi­vidu­elles. C’est pourquoi nous devons nous appuy­er beau­coup plus qu’au­par­a­vant sur l’ur­ban­isme volon­taire: la __manip­u­la­tion délibérée du monde à des fins sen­sorielles__. (p.136)
 
-Cette dernière cita­tion rap­pelle la pos­ture de l’au­teur, qui adopte un ton large­ment pre­scrip­tif. La con­clu­sion de ce tra­vail est la défense d’un besoin de lis­i­bil­ité ou d’**imag­i­bil­ité** de notre envi­ron­nement urbain, c’est-à-dire la capac­ité d’un espace à provo­quer "«&nbsp;"une image forte chez n’im­porte quel observateur"."
+Cette dernière cita­tion rap­pelle la pos­ture de l’au­teur, qui adopte un ton large­ment pre­scrip­tif. La con­clu­sion de ce tra­vail est la défense d’un besoin de lis­i­bil­ité ou d’**imag­i­bil­ité** de notre envi­ron­nement urbain, c’est-à-dire la capac­ité d’un espace à provo­quer "une image forte chez n’im­porte quel observateur"."
 
 ![](carte-de-mots.jpg)
 
@@ -106,4 +106,4 @@ Pour con­clure pro­vi­soire­ment, au-delà d’un ren­du fixe et défini­t
 
 Les pistes ouvertes par l’ate­lier “cartes men­tales” sont nom­breuses. Nous souhaitons garder la porte ouverte à une pour­suite du proces­sus, au sein des dif­férentes struc­tures de l’outil com­mun, sous la forme par exem­ple de « cab­i­nets d’en­reg­istrement d’e­spaces vécus ». Ce tra­vail vien­dra égale­ment nour­rir un tra­vail de recherche en cours sur les rela­tions entre cul­ture et amé­nage­ment dans la métro­pole provençale.
 
-![](points_de_reperes.jpg)
+![](quelques_points_de_reperes.jpg)
