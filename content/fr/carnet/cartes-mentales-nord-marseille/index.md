@@ -3,7 +3,7 @@ title: Cartes mentales dans le nord de Marseille
 author: Jérémy Garniaux
 type: post
 date: 2010-11-22T10:20:56+00:00
-excerpt: "Ce billet relate un atelier « cartes mentales » mené à Marseille, dans les 14, 15 et 16e arrondissements, par le laboratoire de l'outil commun, depuis le printemps 2010. L'outil commun est une plate-forme culturelle hors-les-murs constituée de cinq structures culturelles du Nord de Marseille : la Gare Franche/Cosmos Kolej, le Merlan, Lieux Publics, Lézarap'art et l'APCAR. Ce réseau informel leur permet de travailler collectivement au maillage culturel des quartiers dans lesquels ils sont implantés, en partant du constat de leur enclavement, du morcellement de leurs territoires d’action, de la difficulté à appréhender leurs liens géographiques et par conséquent de leurs complémentarités d’action."
+excerpt: "Ce billet relate un atelier « cartes mentales » mené à Marseille, dans les 14, 15 et 16e arrondissements, par le laboratoire de l'outil commun, depuis le printemps 2010. L'outil commun est une plate-forme culturelle hors-les-murs constituée de cinq structures culturelles du nord de Marseille : la Gare Franche/Cosmos Kolej, le Merlan, Lieux Publics, Lézarap'art et l'APCAR. Ce réseau informel leur permet de travailler collectivement au maillage culturel des quartiers dans lesquels ils sont implantés, en partant du constat de leur enclavement, du morcellement de leurs territoires d’action, de la difficulté à appréhender leurs liens géographiques et par conséquent de leurs complémentarités d’action."
 categories:
   - travaux
 tags:
@@ -14,14 +14,14 @@ tags:
   - kevin lynch
   - marseille
   - outil commun
-  - quartiers nord
+  - quartiers Nord
   - représentations spatiales
 
 ---
 
-Les “quartiers nord” sont sou­vent con­sid­érés comme une ban­lieue de Mar­seille, alors même qu’ils se situent encore dans la com­mune. Cer­taines car­ac­téris­tiques comme les niveaux de revenus des habi­tants – ce sont les secteurs les plus pau­vres de la ville – ou la mor­pholo­gie urbaine – indus­trie, grands ensem­bles, zones pavil­lon­naires… – ren­for­cent cette impres­sion. L’im­age sou­vent néga­tive qu’ont ces quartiers dans l’imag­i­naire col­lec­tif, sujets à tous les pon­cifs récur­rents lorsqu’on par­le de ban­lieue, accentue le proces­sus d’identification.
+Les “quartiers Nord” sont sou­vent con­sid­érés comme une ban­lieue de Mar­seille, alors même qu’ils se situent encore dans la com­mune. Cer­taines car­ac­téris­tiques comme les niveaux de revenus des habi­tants – ce sont les secteurs les plus pau­vres de la ville – ou la mor­pholo­gie urbaine – indus­trie, grands ensem­bles, zones pavil­lon­naires… – ren­for­cent cette impres­sion. L’im­age sou­vent néga­tive qu’ont ces quartiers dans l’imag­i­naire col­lec­tif, sujets à tous les pon­cifs récur­rents lorsqu’on par­le de ban­lieue, accentue le proces­sus d’identification.
 
-## L’image des quartiers nord: quelques repères géographiques
+## L’image des quartiers Nord: quelques repères géographiques
 
 Mar­seille, comme la majorité des villes touchées par la révo­lu­tion indus­trielle, a con­nu des muta­tions spa­tiales de grande ampleur depuis le XIXe siè­cle. La par­cel­li­sa­tion des grandes bastides cam­pag­nardes d’une part, avec l’ap­pari­tion des pre­mières indus­tries et des pro­grammes de loge­ment asso­ciés, et l’amé­nage­ment du port d’autre part, ont don­né au nord de la ville une forte iden­tité socio-spa­tiale indus­trielle et ouvrière.
 
@@ -53,9 +53,9 @@ Cette dernière cita­tion rap­pelle la pos­ture de l’au­teur, qui adopte u
 
 ### Récits de territoires et dialectique art-science
 
-Plutôt que la **prob­lé­ma­tique** dévelop­pée dans _L’im­age de la Cité_, nous avons voulu nous inspir­er des **méth­odes**. Dans le con­texte urbain des quartiers nord et en par­tant de la posi­tion et des ques­tion­nements de l’outil com­mun, l’ate­lier « cartes men­tales », ani­mé par Jessie Morfin – étu­di­ante en géo­gra­phie à Greno­ble et en stage à la Gare Franche – Elsa Van­zande – appren­tie à la FAIAR en stage à l’AP­CAR – et Jérémy Gar­ni­aux – géographe chargé de projet pour l’outil com­mun – avait comme dou­ble objectif:
+Plutôt que la **prob­lé­ma­tique** dévelop­pée dans _L’im­age de la Cité_, nous avons voulu nous inspir­er des **méth­odes**. Dans le con­texte urbain des quartiers Nord et en par­tant de la posi­tion et des ques­tion­nements de l’outil com­mun, l’ate­lier « cartes men­tales », ani­mé par Jessie Morfin – étu­di­ante en géo­gra­phie à Greno­ble et en stage à la Gare Franche – Elsa Van­zande – appren­tie à la FAIAR en stage à l’AP­CAR – et Jérémy Gar­ni­aux – géographe chargé de projet pour l’outil com­mun – avait comme dou­ble objectif:
 
-- d’in­ter­roger les représen­ta­tions men­tales des quartiers nord, en allant à la ren­con­tre de ceux qui y vivent, y tra­vail­lent ou y passent;
+- d’in­ter­roger les représen­ta­tions men­tales des quartiers Nord, en allant à la ren­con­tre de ceux qui y vivent, y tra­vail­lent ou y passent;
 
 - De pro­pos­er, à par­tir de ces ren­con­tres, une ou plusieurs resti­tu­tions con­stru­ites en croisant les regards sci­en­tifiques et artis­tiques, et envis­agées comme sup­port à d’autres dis­cus­sions et débats dans dif­férents lieux. Cette dialec­tique art ↔ sci­ence a don­né une tonal­ité assez expéri­men­tale à l’ate­lier, puisque les ques­tion­nements eux-mêmes ont évolué au fil du travail.
 
@@ -67,7 +67,7 @@ Pen­dant trois semaines, nous avons demandé aux per­son­nes ren­con­trées
 - 
 - D’autre part, des ren­con­tres plus longues et en général à des endroits fix­es (bib­lio­thèque de Saint André, Théâtre du Mer­lan, SALC…) ont eu lieu, et ont don­né nais­sance à des réc­its de quartiers, cartes plus appro­fondies con­stru­ites autour de l’en­droit de la ren­con­tre ou du domi­cile de la per­son­ne et dis­cus­sions associées.
 
-Les enseignements de cet ate­lier, au cours duquel nous avons ren­con­tré une cen­taine de per­son­nes, sont de dif­férentes natures. Il s’ag­it d’abord d’un ensem­ble de cartes men­tales et de dis­cus­sions notées et archivées. De ces dernières, nous avons sélec­tion­né des extraits qui ont retenus notre atten­tion pour ce qu’ils révè­lent des quartiers nord, sou­vent loin des attentes.
+Les enseignements de cet ate­lier, au cours duquel nous avons ren­con­tré une cen­taine de per­son­nes, sont de dif­férentes natures. Il s’ag­it d’abord d’un ensem­ble de cartes men­tales et de dis­cus­sions notées et archivées. De ces dernières, nous avons sélec­tion­né des extraits qui ont retenus notre atten­tion pour ce qu’ils révè­lent des quartiers Nord, sou­vent loin des attentes.
 
 Ces paroles sont de nature dif­férentes et peu­vent être classées selon qua­tre grandes thématiques:
 
@@ -77,9 +77,9 @@ Ces paroles sont de nature dif­férentes et peu­vent être classées selon qua
 
 - des descrip­tions plus métaphoriques ou poé­tiques des lieux, sou­vent sur­prenantes ("c’est dif­férents sacs de billes");
 
-- et enfin, des asser­tions por­teuses d’une pen­sée sur la ville déjà syn­thétisée, évo­quant des _fron­tières_, des _lim­ites_, des _ter­ri­toires_ ou encore l’im­age des quartiers nord et son évo­lu­tion dans l’imag­i­naire com­mun ("il y a tou­jours autant de préjugés mais moins de réti­cences à y aller").
+- et enfin, des asser­tions por­teuses d’une pen­sée sur la ville déjà syn­thétisée, évo­quant des _fron­tières_, des _lim­ites_, des _ter­ri­toires_ ou encore l’im­age des quartiers Nord et son évo­lu­tion dans l’imag­i­naire com­mun ("il y a tou­jours autant de préjugés mais moins de réti­cences à y aller").
 
-Ces paroles récoltées per­me­t­tent de soutenir l’idée qu’une ville n’est pas un tout uni­forme, mais existe sous mille formes à tra­vers les visions de ceux qui la pra­tiquent. A côté de ces élé­ments, nous avons con­stru­it plusieurs cartes don­nant à voir l’e­space vécu et perçu des quartiers nord de Marseille.
+Ces paroles récoltées per­me­t­tent de soutenir l’idée qu’une ville n’est pas un tout uni­forme, mais existe sous mille formes à tra­vers les visions de ceux qui la pra­tiquent. A côté de ces élé­ments, nous avons con­stru­it plusieurs cartes don­nant à voir l’e­space vécu et perçu des quartiers Nord de Marseille.
 
 ![](wordle2.png)
 
