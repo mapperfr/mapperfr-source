@@ -12,6 +12,8 @@ tags:
   - tampons
   - Vidal de la Blache
 
+# Les images 3679, 
+
 ---
 En fouinant l’été dernier dans une bib­lio­thèque amie, j’ai décou­vert l’ex­is­tence d’un petit tré­sor car­tographique : les « tim­bres caoutchouc Jean-Pierre ». Présen­té sous la forme d’un cof­fret car­ton­né non daté, c’est un ensem­ble de tam­pons des côtes et fleuves de France. L’ensemble, incom­plet, déroule une poésie graphique désuète, proche des cartes sco­laires du siè­cle dernier et de la géo­gra­phie à la Vidal de la Blache. J’ai essayé d’en retrou­ver l’hydronymie cor­re­spon­dante, foi­son­nante et imagée.
 
