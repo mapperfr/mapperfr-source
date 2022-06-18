@@ -12,8 +12,4 @@ tags:
 
 C’est unanime, “on n’avait pas vu ça depuis 1987 !” Mar­seille peut emprunter son surnom à Alger, pour l’oc­ca­sion… 
 
-Ça rap­pelle très fort Jean Leloup, tout ça:
-
-https://www.youtube.com/watch?v=I7-Jo9vAb-c
-
 ![](marseille_la_blanche.jpg)
