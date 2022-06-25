@@ -14,13 +14,13 @@ organizations:
   url: https://www.mmsh.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geographer, mapmaker & developer
+bio: Geographer & developer
 
 # Interests to show in About widget
 interests:
-- linked open data and open science
-- Cartography & spatial analysis
-- Web development & UI
+- Open science & open data
+- Cartography & geospatial data science
+- Web development & UI/UX
 
 # Education to show in About widget
 education:
@@ -69,4 +69,4 @@ highlight_name: true
 
 I'm a geographer and developer working at [LAMPEA](https://lampea.cnrs.fr) lab in Aix-en-Provence, France, on the deployment of [ArcaDIIS](https://arcadiis.science), an Archaeological Data Infrastructure for Interoperability and Sharing. I've been working previously as a freelance mapmaker and geographer, as a project manager at [LPED](https://lped.fr) for the [MC3 international research network](http://mc3.lped.fr) and as a research engineer at [SATT Sud-Est](https://sattse.com/) where, with a team of urban planners and climatologists, I conceived and built the [MACLI pedagogical model](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) for the simulation of the urban heat island. 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}CV complet{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}Full resume (only in French for now){{< /staticref >}}
