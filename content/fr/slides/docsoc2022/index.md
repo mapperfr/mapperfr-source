@@ -12,7 +12,8 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
-  transition: none
+  reveal_options:
+    transition: 'none'
 ---
 
 ### Données et métadonnées dans l’hybridation et le bricolage des pratiques des chercheurs en contexte de science ouverte
