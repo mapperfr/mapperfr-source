@@ -95,9 +95,6 @@ features:
     api_key: ''
     zoom: 15
 
-security:
-  allow_frame: true
-
 # Extensions
 
 extensions:
@@ -109,3 +106,6 @@ extensions:
     enable: true
   academicons:
     enable: true
+
+security:
+  allow_frame: true
