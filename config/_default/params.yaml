@@ -94,6 +94,8 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+  security:
+  allow_frame: true
 
 # Extensions
 
