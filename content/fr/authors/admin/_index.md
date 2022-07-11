@@ -18,7 +18,7 @@ bio: Géographe, cartographe & développeur
 
 # Interests to show in About widget
 interests:
-- Linked open data et science ouverte
+- Open data et science ouverte
 - Développement web et UI
 - Cartographie et analyse spatiale
 
