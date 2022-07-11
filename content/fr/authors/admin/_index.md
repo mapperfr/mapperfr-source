@@ -19,8 +19,8 @@ bio: Géographe, cartographe & développeur
 # Interests to show in About widget
 interests:
 - Linked open data et science ouverte
-- Cartographie et analyse spatiale
 - Développement web et UI
+- Cartographie et analyse spatiale
 
 # Education to show in About widget
 education:
@@ -74,6 +74,6 @@ highlight_name: true
 
 À long terme, j'essaie de mettre en oeuvre des approches créatives pour relever les défis contemporains à la croisée de la science et de la société, avec un focus sur la dimension spatiale et en utilisant des outils libres et open source. -->
 
-Géo­graphe, géomaticien et développeur, je tra­vaille au sein du [LAMPEA](https://lampea.cnrs.fr) au déploiement d'[ArcaDIIS](https://arcadiis.science), plateforme pour l'interopérabilité et le partage des données de l'archéologie. J’ai exercé aupar­a­vant comme car­tographe indépen­dant, comme chargé de projet au [LPED](https://lped.fr) où j’ai coor­don­né la mise en place d’un [réseau de recherche inter­na­tion­al](http://mc3.lped.fr) autour des villes méditer­ranéennes et du change­ment climatique, puis comme ingénieur de recherche au sein de la [SATT Sud-Est](https://sattse.com/). J'y ai conçu et fab­riqué la [maque­tte MACLI](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) de sim­u­la­tion de l’îlot de chaleur urbain, au sein d'une équipe d’ur­ban­istes et de cli­ma­to­logues.  
+Géo­graphe, géomaticien et développeur, je suis chargé d'assurer le déploiement d'[ArcaDIIS](https://arcadiis.science), plateforme pour l'interopérabilité et le partage des données de l'archéologie, au sein du [LAMPEA](https://lampea.cnrs.fr) et d'Aix-Marseille Université. J’ai exercé aupar­a­vant comme car­tographe indépen­dant, comme chargé de projet au [LPED](https://lped.fr) où j’ai coor­don­né la mise en place d’un [réseau de recherche inter­na­tion­al](http://mc3.lped.fr) autour des villes méditer­ranéennes et du change­ment climatique, puis comme ingénieur de recherche au sein de la [SATT Sud-Est](https://sattse.com/), où j'ai participé à la conception de la [maque­tte Macli](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) de sim­u­la­tion de l’îlot de chaleur urbain, au sein d'une équipe d’ur­ban­istes et de cli­ma­to­logues.  
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}CV complet{{< /staticref >}}
