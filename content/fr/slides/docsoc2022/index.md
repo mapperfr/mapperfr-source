@@ -19,7 +19,7 @@ slides:
 ### Données et métadonnées dans l’hybridation et le bricolage des pratiques des chercheurs en contexte de science ouverte
 Un retour d’expérience du GDR SILEX
 
-![](docsoc_1bandeau.png)
+![](test/docsoc_1bandeau.png)
 
 {{< speaker_note >}}
 
