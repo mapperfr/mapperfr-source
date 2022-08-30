@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  # email: jeremy@mapper.fr
-  # phone: +33624250100
+  # email: 
+  # phone: 
   address:
     # street: 
     # city: Marseille
@@ -34,9 +34,9 @@ content:
     # postcode:
     # country: France
     # country_code: FR
-  coordinates:
-    latitude: '43.2948'
-    longitude: '5.3708'
+  # coordinates:
+  #   latitude: ''
+  #   longitude: ''
   directions: 
   # office_hours:
   # appointment_url: 'https://calendly.com'
