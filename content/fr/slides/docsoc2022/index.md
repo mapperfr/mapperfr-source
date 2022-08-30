@@ -19,7 +19,7 @@ slides:
 ### Données et métadonnées dans l’hybridation et le bricolage des pratiques des chercheurs en contexte de science ouverte
 Un retour d’expérience du GDR SILEX
 
-![](test/docsoc_1bandeau.png)
+![](albums/docsoc/docsoc_1bandeau.png)
 
 {{< speaker_note >}}
 
@@ -48,7 +48,7 @@ Cette présentation est une contribution collective. proposée par C. Tufféry, 
 
 Des travaux menés depuis le XIXe siècle
 
-![](docsoc_hist_rech.png)
+![](albums/docsoc/docsoc_hist_rech.png)
 
 {{< speaker_note >}}
 
@@ -58,7 +58,7 @@ Le silex en tant qu'objet scientifique est étudié depuis le XIXe siècle. Dét
 
 ---
 
-{{< figure src="docsoc_hist_rech_carte1.png" height="100%" >}}
+{{< figure src="albums/docsoc/docsoc_hist_rech_carte1.png" height="100%" >}}
 
 {{< speaker_note >}}
 Exemples de cartes produites sur les territoires d'approvisionnement en ressources minérales des préhistoriques
@@ -66,7 +66,7 @@ Exemples de cartes produites sur les territoires d'approvisionnement en ressourc
 
 ---
 
-{{< figure src="docsoc_hist_rech_carte2.png" height="100%" >}}
+{{< figure src="albums/docsoc/docsoc_hist_rech_carte2.png" height="100%" >}}
 
 {{< speaker_note >}}
 Exemples de cartes produites sur les territoires d'approvisionnement en ressources minérales des préhistoriques
@@ -74,7 +74,7 @@ Exemples de cartes produites sur les territoires d'approvisionnement en ressourc
 
 ---
 
-{{< figure src="docsoc_hist_rech_carte3.png" height="100%" >}}
+{{< figure src="albums/docsoc/docsoc_hist_rech_carte3.png" height="100%" >}}
 
 {{< speaker_note >}}
 Exemples de cartes produites sur les territoires d'approvisionnement en ressources minérales des préhistoriques
@@ -82,7 +82,7 @@ Exemples de cartes produites sur les territoires d'approvisionnement en ressourc
 
 ---
 
-{{< figure src="docsoc_hist_rech_carte4.png" >}} 
+{{< figure src="albums/docsoc/docsoc_hist_rech_carte4.png" >}} 
 
 {{< speaker_note >}}
 Exemples de cartes produites sur les territoires d'approvisionnement en ressources minérales des préhistoriques
@@ -90,7 +90,7 @@ Exemples de cartes produites sur les territoires d'approvisionnement en ressourc
 
 ---
 
-{{< figure src="docsoc_hist_rech_carte5.png" >}}
+{{< figure src="albums/docsoc/docsoc_hist_rech_carte5.png" >}}
 
 {{< speaker_note >}}
 Exemples de cartes produites sur les territoires d'approvisionnement en ressources minérales des préhistoriques
@@ -167,7 +167,7 @@ La finalité scientifique de ces divers outils réside dans la possibilité de r
 #### Données géologiques
 ##### Des sources hétérogènes
 
-{{< figure src="docsoc_source_donnees.png" resize_options="100x100" >}}
+{{< figure src="albums/docsoc/docsoc_source_donnees.png" resize_options="100x100" >}}
 
 {{< speaker_note >}}
 
@@ -179,7 +179,7 @@ Les données géologiques utilisées sont issues de plusieurs sources: des donn�
 
 #### Plateforme cartographique
 
-![](docsoc_carto1.png)
+![](albums/docsoc/docsoc_carto1.png)
 
 {{< speaker_note >}}
 La plateforme cartographique actuelle est constituée d'un ensemble d'outils numériques qui s'appuient sur des normes d'interopérabilité. L'élément central est le serveur cartographique ArcGis Online, auquel viennent se connecter différentes applications clientes: interface carto web, application de saisie mobile, SIG open source QGIS, etc. 
@@ -189,7 +189,7 @@ La plateforme cartographique actuelle est constituée d'un ensemble d'outils num
 
 ##### ArcGis Online
 
-![](docsoc_carto2.png)
+![](albums/docsoc/docsoc_carto2.png)
 
 {{< speaker_note >}}
 Depuis 2017, le GDR s'appuie sur une application web hébergée par ArcGis Online, développée avec le Web AppBuilder d'ArcGis. Cette interface de webmapping a évolué en fonction des retours utilisateurs, et constitue la première itération d'une interface de partage des données sur les formations à silicite et les points de collecte.
@@ -202,7 +202,7 @@ Cette première copie d'écran présente les points de collectes validés pour l
 
 ##### ArcGis Online
 
-![](docsoc_carto3.png)
+![](albums/docsoc/docsoc_carto3.png)
 
 {{< speaker_note >}}
 En se rapprochant, on découvre l'ensemble des points de collectes pour la France et les pays limitrophes, ainsi qu'une couche qui indique l'état d'avancement de l'enquête (les secteurs grisés ne sont pas encore enquêtés)
@@ -212,7 +212,7 @@ En se rapprochant, on découvre l'ensemble des points de collectes pour la Franc
 
 ##### ArcGis Online
 
-![](docsoc_carto4.png)
+![](albums/docsoc/docsoc_carto4.png)
 
 {{< speaker_note >}}
 Cette dernière copie d'écran, centrée sur le Centre Val de Loire, laisse apparaître (en plus des points de collecte) la cartographie des formations à silicite. Cette couche carto est un produit composite, dérivé de la BD-Charm50.
@@ -222,7 +222,7 @@ Cette dernière copie d'écran, centrée sur le Centre Val de Loire, laisse appa
 
 ##### Formations à silicite
 
-![](docsoc_carto5.png)
+![](albums/docsoc/docsoc_carto5.png)
 
 {{< speaker_note >}}
 A partir de la base du BRGM, une sélection des formations à silicite est effectuée par des experts. Certaines données attributaires sont supprimées, d'autres ajoutées. 
@@ -232,7 +232,7 @@ A partir de la base du BRGM, une sélection des formations à silicite est effec
 
 ##### Formations à silicite
 
-![](docsoc_carto6.png)
+![](albums/docsoc/docsoc_carto6.png)
 
 {{< speaker_note >}}
 Les données finales sont publiées en WFS (service web), sous licence ouverte Etalab 2.0 comme l'impose la licence d'origine. Elles sont accessible via QGIS comme services d'entités ArcGIS (serveur ArcGIS REST).
@@ -242,7 +242,7 @@ Les données finales sont publiées en WFS (service web), sous licence ouverte E
 
 ##### Formations à silicite
 
-![](docsoc_carto7.png)
+![](albums/docsoc/docsoc_carto7.png)
 
 {{< speaker_note >}}
 Dans QGIS, elles peuvent être interrogées comme n'importe quelle couche vecteur, et peuvent être enregistrées en local dans divers formats. 
@@ -252,7 +252,7 @@ Dans QGIS, elles peuvent être interrogées comme n'importe quelle couche vecteu
 
 ##### Points de collecte et inventaires de lithothèques
 
-![](docsoc_carto8.png)
+![](albums/docsoc/docsoc_carto8.png)
 
 {{< speaker_note >}}
 Les données sur les points de collecte (prospections) et d'inventaire de lithothèques alimentent deux couches de points: les points non validés (en cours) et points validés
@@ -262,7 +262,7 @@ Les données sur les points de collecte (prospections) et d'inventaire de lithot
 
 ##### Points de collecte et inventaires de lithothèques
 
-![](docsoc_formulaire1.png)
+![](albums/docsoc/docsoc_formulaire1.png)
 
 {{< speaker_note >}}
 Les données proviennent d'un formulaire descriptif harmonisé disponible sous plusieurs formes : fiche papier, fichier tableur, formulaire en ligne, application mobile.
@@ -272,7 +272,7 @@ Les données proviennent d'un formulaire descriptif harmonisé disponible sous p
 
 ##### Points de collecte et inventaires de lithothèques
 
-![](docsoc_formulaire2.png)
+![](albums/docsoc/docsoc_formulaire2.png)
 
 {{< speaker_note >}}
 Le formulaire est disponible en ligne (accessible via un navigateur Web) pour les inventaires de lithothèques réalisés en dehors du terrain.
@@ -282,7 +282,7 @@ Le formulaire est disponible en ligne (accessible via un navigateur Web) pour le
 
 ##### Points de collecte et inventaires de lithothèques
 
-![](docsoc_survey123_1.png)
+![](albums/docsoc/docsoc_survey123_1.png)
 
 {{< speaker_note >}}
 L'application mobile permettant la saisie sur le terrain s'appuie sur ArcGIS Survey123.
@@ -293,7 +293,7 @@ L'application mobile permettant la saisie sur le terrain s'appuie sur ArcGIS Sur
 
 #### Migration vers une infra open source
 
-![](docsoc_qwc2_1.png)
+![](albums/docsoc/docsoc_qwc2_1.png)
 Affichage des données QGIS Server dans QWC2
 
 {{< speaker_note >}}
@@ -315,7 +315,7 @@ ESRI.
 
 #### Migration vers une infra open source
 
-![](docsoc_mergin_1.png)
+![](albums/docsoc/docsoc_mergin_1.png)
 
 {{< speaker_note >}}
 
@@ -330,7 +330,7 @@ La seconde partie de la migration est prévue pour le deuxième semestre 2022. U
 {{% fragment %}} - Dépôts semi-automatisés dans ArcaDIIS {{% /fragment %}}
 {{% fragment %}} - Dépôts iconographiques dans Nakala {{% /fragment %}}
 
-![](docsoc_nakala_1.png)
+![](albums/docsoc/docsoc_nakala_1.png)
 
 
 {{< speaker_note >}}
@@ -348,7 +348,7 @@ ArcaDIIS proposera également la pré-génération de trames de _data papers_ de
 
 #### De la science ouverte en archéologie
 
-![](docsoc_terrain1.png)
+![](albums/docsoc/docsoc_terrain1.png)
 
 Hybridation des pratiques
 
@@ -366,7 +366,7 @@ Concrètement, la question des métadonnées est un bon exemple: si l'on sait en
 
 #### De la science ouverte en archéologie
 
-![](docsoc_terrain2.png)
+![](albums/docsoc/docsoc_terrain2.png)
 
 Bricolage cognitif
 
@@ -386,7 +386,7 @@ recherche.
 
 #### De la science ouverte en archéologie
 
-![](docsoc_braconnage.png)
+![](albums/docsoc/docsoc_braconnage.png)
 
 Braconnage culturel
 
@@ -409,7 +409,7 @@ La coexistence au sein d’un même projet de recherche comme le nôtre, de form
 
 #### De la science ouverte en archéologie
 
-![](docsoc_ethique.png)
+![](albums/docsoc/docsoc_ethique.png)
 
 {{< speaker_note >}}
 
@@ -436,4 +436,4 @@ Ces questions sont abordées dans le cadre de la thèse de Christophe Tufféry e
 #### Merci pour votre attention!
 
 jeremy.garniaux@univ-amu.fr
-![](docsoc_1bandeau.png)
+![](albums/docsoc/docsoc_1bandeau.png)
