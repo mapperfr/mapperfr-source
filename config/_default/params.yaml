@@ -41,9 +41,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jérémy Garniaux. Contenu disponible sous licence {license}'
+    notice: '© {year} Jérémy Garniaux. Contenu disponible sous licence CC BY-SA 2.0'
     license:
-      enable: true
+      enable: false
       allow_derivatives: true
       share_alike: true
       allow_commercial: true
