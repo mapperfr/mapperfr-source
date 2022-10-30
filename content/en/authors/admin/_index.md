@@ -1,4 +1,6 @@
 ---
+{{ .Site.Copyright | safeHTML }}
+
 # Display name
 title: Jérémy Garniaux
 
