@@ -45,7 +45,7 @@ social:
   link: https://twitter.com/mapperfr
 - icon: mastodon
   icon_pack: fab
-  link: <a rel="me" href="https://mamot.fr/@mapper">https://mamot.fr/@mapper</a>
+  link: <a rel="me" href="https://mamot.fr/@mapper">Mastodon</a>
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
