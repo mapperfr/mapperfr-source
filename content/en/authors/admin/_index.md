@@ -1,7 +1,5 @@
 ---
 
-{{< include-html "mastolink.html" >}}
-
 # Display name
 title: Jérémy Garniaux
 
