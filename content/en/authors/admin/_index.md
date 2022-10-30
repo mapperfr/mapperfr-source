@@ -1,5 +1,6 @@
 ---
-{{ .Site.Copyright | safeHTML }}
+
+{{< include-html "snippet.html" >}}
 
 # Display name
 title: Jérémy Garniaux
@@ -47,7 +48,7 @@ social:
   link: https://twitter.com/mapperfr
 - icon: mastodon
   icon_pack: fab
-  link: <a rel="me" href="https://mamot.fr/@mapper">Mastodon</a>
+  link: https://mamot.fr/@mapperfr
 
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
