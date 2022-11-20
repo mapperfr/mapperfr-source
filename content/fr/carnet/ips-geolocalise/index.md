@@ -22,12 +22,12 @@ Accéder à la cartographie dynamique: https://mapper.space/projects/ipsg.html
 
 ![](../../../../assets/media/albums/ipsg/ipsg1.png)
 
-🗺 Vous pouvez retrouver cette réutilisation sur data.gouv.fr:
-https://www.data.gouv.fr/fr/reuses/cartographie-de-lindice-de-position-sociale-des-ecoles-et-colleges-france-metropolitaine-et-drom/
+🗺 Vous pouvez retrouver cette réutilisation sur data.gouv.fr:  
+https://www.data.gouv.fr/fr/reuses/cartographie-de-lindice-de-position-sociale-des-ecoles-et-colleges-france-metropolitaine-et-drom/  
 
-📄 Les données ouvertes sont disponibles ici: 
-https://data.education.gouv.fr/explore/dataset/fr-en-ips_ecoles/
-https://data.education.gouv.fr/explore/dataset/fr-en-ips_colleges
-https://www.data.gouv.fr/fr/datasets/indices-de-position-sociale-geolocalises-des-ecoles-et-colleges-de-france-metropolitaine-et-des-drom-2/
+📄 Les données ouvertes sont disponibles ici:   
+https://data.education.gouv.fr/explore/dataset/fr-en-ips_ecoles/  
+https://data.education.gouv.fr/explore/dataset/fr-en-ips_colleges  
+https://www.data.gouv.fr/fr/datasets/indices-de-position-sociale-geolocalises-des-ecoles-et-colleges-de-france-metropolitaine-et-des-drom-2/  
 
 Bonne exploration!
