@@ -31,6 +31,3 @@ https://data.education.gouv.fr/explore/dataset/fr-en-ips_colleges
 https://www.data.gouv.fr/fr/datasets/indices-de-position-sociale-geolocalises-des-ecoles-et-colleges-de-france-metropolitaine-et-des-drom-2/
 
 Bonne exploration!
-
-#cartographie #géographie
-
