@@ -20,7 +20,7 @@ J'ai géolocalisé les plus de 39000 établissements pour en établir une cartog
 
 Accéder à la cartographie dynamique: https://mapper.space/projects/ipsg.html
 
-![](../../../../assets/media/albums/ipsg/ipsg1.png)
+![](albums/ipsg/ipsg1.png)
 
 🗺 Vous pouvez retrouver cette réutilisation sur data.gouv.fr:  
 https://www.data.gouv.fr/fr/reuses/cartographie-de-lindice-de-position-sociale-des-ecoles-et-colleges-france-metropolitaine-et-drom/  
