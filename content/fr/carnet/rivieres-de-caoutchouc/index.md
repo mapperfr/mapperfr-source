@@ -3,6 +3,7 @@ title: Rivières de caoutchouc sur tampons surannés
 author: Jérémy Garniaux
 type: post
 date: 2020-10-17T08:53:49+00:00 
+draft: true
 categories:
   - carnet
 tags:
