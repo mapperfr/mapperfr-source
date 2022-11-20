@@ -13,9 +13,9 @@ main:
   - name: Parcours
     url: '#parcours'
     weight: 20
-  # - name: Carnet
-  #   url: '#carnet'
-  #   weight: 30
+  - name: Carnet
+    url: '#carnet'
+    weight: 30
   - name: Slides
     url: '#slides'
     weight: 40

@@ -3,6 +3,7 @@ title: Cartes mentales dans le nord de Marseille
 author: Jérémy Garniaux
 type: post
 date: 2010-11-22T10:20:56+00:00
+draft: true
 excerpt: "Ce billet relate un atelier « cartes mentales » mené à Marseille, dans les 14, 15 et 16e arrondissements, par le laboratoire de l'outil commun, depuis le printemps 2010. L'outil commun est une plate-forme culturelle hors-les-murs constituée de cinq structures culturelles du nord de Marseille : la Gare Franche/Cosmos Kolej, le Merlan, Lieux Publics, Lézarap'art et l'APCAR. Ce réseau informel leur permet de travailler collectivement au maillage culturel des quartiers dans lesquels ils sont implantés, en partant du constat de leur enclavement, du morcellement de leurs territoires d’action, de la difficulté à appréhender leurs liens géographiques et par conséquent de leurs complémentarités d’action."
 categories:
   - travaux
