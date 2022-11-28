@@ -30,7 +30,9 @@ Au-delà de l'aspect technique du protocole d'échange qu'il partage avec d'autr
 
 Enthousiasmé par Mastodon, j'avais créé un premier compte il y a un certain temps, remplacé au printemps 2020 (pendant le premier confinement) par un second sur [mamot.fr](https://mamot.fr), serveur mis à disposition par l'association [la Quadrature du Net](https://www.laquadrature.net/). Fin octobre, l'activité s'est brusquement intensifiée sur Mastodon, tandis que sur Twitter, les conversations se multipliaient - avec cette question récurrente: "sur quelle instance m'inscrire?" - car la multiplication des instances, malgré des outils d'aide au choix comme https://joinmastodon.org, ne semblait pas faciliter l'adoption.
 
-Comment faciliter ou encourager, à mon niveau, cette joyeuse migration vers la Fédiverse et Mastodon? J'ai choisi de passer du côté des administrateurs d'instance en mettant à disposition un serveur spécialement destiné à la communauté des cartographes, développeurs géospatiaux et amateurs de cartes. [Mapstodon.space](https://mapstodon.space) a ouvert ses portes le 5 novembre, porté par un jeu de mots que l'on ne pouvait pas laisser et une série d'émojis spéciaux 
+Comment faciliter ou encourager, à mon niveau, cette joyeuse migration vers la Fédiverse et Mastodon? 
+
+J'ai choisi de passer du côté des administrateurs en mettant à disposition un serveur spécialement destiné à la communauté des cartographes, développeurs géospatiaux et autres amateurs de cartes. [Mapstodon.space](https://mapstodon.space) a ouvert ses portes le 5 novembre, porté par un jeu de mots que l'on pouvait difficilement laisser passer, et une série d'émojis tous plus carto les uns que les autres - QGIS, COG, ArcGIS, GDAL, Google Earth ou encore GRASS GIS, tout le monde! 
 
 
 
