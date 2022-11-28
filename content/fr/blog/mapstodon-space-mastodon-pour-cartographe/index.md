@@ -13,7 +13,7 @@ tags:
   - fediverse
 ---
 
-*(Note: pour changer, ce billet emploie le féminin générique!)*
+*(NB: ce billet emploie le féminin générique)*
 
 Depuis le rachat et la reprise chaotique de Twitter par Elon Musk, entre choix contestés, licenciements massifs et erreurs d'appréciation, un nombre croissant de ses utilisatrices fuient le réseau. Certaines ont fermé leur compte définitivement, d'autres le désactivent, d'autres encore (comme moi) y ralentissent fortement leur activité. L'occasion fait le larron: le côté toxique de Twitter prend le pas depuis un certain temps sur ses aspects les plus enrichissants. Pour beaucoup, nourries par de nombreux échanges riches et respectueux, nous y restions en esquivant au mieux ses aspects les plus pénibles: l'opacité de l'algorithme qui décide à notre place du contenu auquel on accède, l'incitation permanente au conflit *par dessein* ("l'engagement", qu'ils disaient), l'analyse du trafic via le raccourcisseur d'URL, etc. 
 
