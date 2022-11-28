@@ -2,7 +2,7 @@
 title: Mapstodon.space, une instance Mastodon pour la communauté des cartographes
 author: Jérémy Garniaux
 type: post
-date: 2009-01-09T14:04:19+00:00
+date: 2022-11-22T14:04:19+00:00
 draft: false
 categories:
   - carnet
