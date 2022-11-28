@@ -7,28 +7,50 @@ draft: true
 categories:
   - carnet
 tags:
-  - france
-  - ips
-  - géographie scolaire
+  - mastodon
+  - twitter
+  - activitypub
+  - fediverse
 ---
 
-Il y a quelques mois, suite à une procédure lancée par le journaliste [Alexandre Léchenet](https://mastodon.social/@alphoenix), le tribunal administratif de Paris a imposé au ministère de l'Éducation nationale de publier en #opendata les données sur l'indice de position sociale (IPS) des écoles et collèges de France.
+Depuis le rachat et la reprise chaotique de Twitter par Elon Musk, entre choix contestés, licenciements massifs et erreurs d'appréciation, un nombre croissant de ses utilisateurices fuient le réseau. Certaines ont fermé leur compte définitivement, d'autres le désactivent, d'autres encore (comme moi) y ralentissent fortement leur activité. L'occasion fait le larron: le côté toxique de Twitter prend le pas depuis un certain temps sur ses aspects les plus enrichissants. Pour beaucoup, nourris par de nombreux échanges riches et respectueux, nous y restions en esquivant au mieux ses aspects les plus pénibles: l'opacité de l'algorithme qui décide à notre place du contenu auquel on accède, l'incitation permanente au conflit *par dessein* [^1] ("l'engagement", qu'ils disaient), l'analyse du trafic via le raccourcisseur d'URL, etc. 
 
-[Selon Wikipédia](https://fr.wikipedia.org/wiki/Indice_de_position_sociale
-), "L'IPS des élèves est un outil de mesure quantitatif de la situation sociale des élèves face aux apprentissages dans les établissements scolaires français. Plus l'indice est élevé, plus l'élève évolue dans un contexte familial favorable aux apprentissages. Cet indice est construit à partir des professions et catégories socioprofessionnelles (PCS) des représentants légaux des élèves."
+Une partie de ce beau monde cherche donc une nouvelle maison pour continuer la conversation.
 
-J'ai géolocalisé les plus de 39000 établissements pour en établir une cartographie. L'échelle va du jaune pour un IPS très élevé au violet pour un IPS très bas. Croisée aux informations sur le statut des établissements (les écoles et collèges privés sont entourés d'un halo blanc), la spatialisation de cet indice raconte une certaine géographie sociale du pays.
+## Introducing Mastodon
 
-Accéder à la cartographie dynamique: https://mapper.space/projects/ipsg.html
+Une alternative libre, décentralisée et interopérable à Twitter existe depuis 2016, [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software)). 
+- Libre: le code source de Mastodon [est publiée sur Github](https://github.com/mastodon/mastodon) sous licence AGPLv3+.
+- Décentralisée: Contrairement à Twitter, Mastodon ne dépend pas d'un fournisseur de service unique. Il prend la forme d'un ensemble d'instances (ou serveurs), administrées séparément. Cet aspect demande un temps d'adaptation lorsqu'on arrive du web centralisé et d'une plateforme comme Twitter. L'analogie avec l'email [^2] peut faciliter la compréhension dans les premiers temps.
+- Interopérable: Mastodon repose sur [ActivityPub](https://fr.wikipedia.org/wiki/ActivityPub), un format standard d'échanges, ouvert, interopérable et documenté. Il est implémenté par un ensemble de logiciels et de services: Peertube (hébergement et consultation de vidéos) ou bien Pixelfed (alternative libre à Instagram), par exemple, sont d'autres logiciels implémentant ActivityPub. La migration en cours d'utilisateurs de Twitter vers Mastodon [semble avoir relancé l'intérêt pour ActivityPub](https://thenewstack.io/devs-are-excited-by-activitypub-open-protocol-for-mastodon/). Tumblr [a indiqué](https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps) qu'il intégrerait prochainement le standard. 
 
-![](albums/ipsg/ipsg1.png)
+Au-delà de l'aspect technique du protocole d'échange qu'il partage avec d'autres outils, Mastodon s'inscrit dans le vaste mouvement de [la Fédiverse](https://fr.wikipedia.org/wiki/Fediverse), fédération de services libres et ouverts pensés et conçus en alternative aux réseaux sociaux fermés et commerciaux. La Fédiverse est une très belle boîte de Pandore qui dispose de plusieurs portes d'entrée - je vous invite à pousser celle de https://fediverse.party pour en découvrir plus. 
 
-🗺 Vous pouvez retrouver cette réutilisation sur data.gouv.fr:  
-https://www.data.gouv.fr/fr/reuses/cartographie-de-lindice-de-position-sociale-des-ecoles-et-colleges-france-metropolitaine-et-drom/  
+## Introducing MaPstodon
 
-📄 Les données ouvertes sont disponibles ici:   
-https://data.education.gouv.fr/explore/dataset/fr-en-ips_ecoles/  
-https://data.education.gouv.fr/explore/dataset/fr-en-ips_colleges  
-https://www.data.gouv.fr/fr/datasets/indices-de-position-sociale-geolocalises-des-ecoles-et-colleges-de-france-metropolitaine-et-des-drom-2/  
+Enthousiasmé par Mastodon, j'avais créé un premier compte il y a un certain temps, remplacé au printemps 2020 (pendant le premier confinement) par un second sur [mamot.fr](https://mamot.fr), serveur mis à disposition par l'association [la Quadrature du Net](https://www.laquadrature.net/). Fin octobre, l'activité s'est brusquement intensifiée sur Mastodon, tandis que sur Twitter, les conversations se multipliaient - avec cette question récurrente: "sur quelle instance m'inscrire?" - car la multiplication des instances, malgré des outils d'aide au choix comme https://joinmastodon.org, ne semblait pas faciliter l'adoption.
 
-Bonne exploration!
+Comment faciliter ou encourager, à mon niveau, cette joyeuse migration vers la Fédiverse et Mastodon? J'ai choisi de passer du côté des administrateurs d'instance en mettant à disposition un serveur spécialement destiné à la communauté des cartographes, développeurs géospatiaux et amateurs de cartes. [Mapstodon.space](https://mapstodon.space) a ouvert ses portes le 5 novembre, porté par un jeu de mots que l'on ne pouvait pas laisser et une série d'émojis spéciaux 
+
+
+
+
+Choisir son instance
+Introduction, profil détaillé
+Instance, boost, toot?
+Description de l'interface
+Suivre des hashtags
+Quote RT
+
+
+
+
+[^1]: ?
+[^2]: nous communiquons tous par email mais sommes inscrits chez différents fournisseurs de courriel
+
+https://jeffreyfreeman.me/eugen-rochko-ceo-of-mastodon-found-to-support-nazis-agenda/ 
+
+https://ws-dl.blogspot.com/2021/01/2020-01-22-twitter-rewrites-your-urls.html (2020)
+https://www.hanselman.com/blog/this-url-shortener-situation-is-officially-out-of-control (2014)
+
+
