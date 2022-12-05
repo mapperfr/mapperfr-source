@@ -13,7 +13,7 @@ main:
   - name: Parcours
     url: '#parcours'
     weight: 20
-  - name: Car,et
+  - name: Carnet
     url: '#carnet'
     weight: 30
   - name: Slides
