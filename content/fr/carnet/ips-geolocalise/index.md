@@ -2,7 +2,7 @@
 title: Cartographie de l'Indice de Position Sociale
 author: Jérémy Garniaux
 type: post
-date: 2009-01-09T14:04:19+00:00
+date: 2022-12-02T14:04:19+00:00
 categories:
   - cartes
 tags:
