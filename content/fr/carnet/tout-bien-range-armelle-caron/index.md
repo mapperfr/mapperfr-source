@@ -1,5 +1,5 @@
 ---
-title: Tout bien rangé : les mises en ordre cartographiques d’Armelle Caron
+title: 'Tout bien rangé : les mises en ordre cartographiques d’Armelle Caron'
 author: Jérémy Garniaux
 type: post
 date: 2009-09-06T14:08:28+00:00
