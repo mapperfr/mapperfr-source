@@ -44,7 +44,7 @@ content:
     - icon: mastodon
       icon_pack: fab
       name: Contact me on Mastodon
-      link: 'https://mastodon.space/@jeremy'
+      link: 'https://mapstodon.space/@jeremy'
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
