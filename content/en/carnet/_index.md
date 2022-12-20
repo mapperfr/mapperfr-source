@@ -1,5 +1,5 @@
 ---
-title: Carnet
+title: Blog
 cms_exclude: false
 
 # View.
