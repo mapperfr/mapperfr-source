@@ -32,9 +32,9 @@ experience:
     date_end: ''
     description: |2-
 
-        Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Arkaia Institute](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).  
+        Maison Méditerranéenne des Sciences de l'Homme, [Mediterranean Laboratory of Prehistory Europe Africa](https://lampea.cnrs/fr), [Arkaia Institute](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).  
 
-        Coordination of the deployment of ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*),an editorial platform for the semantic valorisation of archaeological research data. Development of its public interface. Web development for various archaeological research projects. Participation in the work of the MMSH's Publishing Unit.
+        Coordination of the deployment of ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), an editorial platform for the semantic valorisation of archaeological research data. Development of its public interface. Web development for various archaeological research projects. Participation in the work of the MMSH's Publishing Unit.
 
 
   - title: Lecturer in cartography
