@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jérémy Garniaux // CC BY-SA 2.0.'
+    notice: '© {year} Jérémy Garniaux // CC BY 2.0.'
     license:
       enable: false
       allow_derivatives: true
