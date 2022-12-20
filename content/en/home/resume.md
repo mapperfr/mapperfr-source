@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Parcours
-subtitle: Principales expériences professionnelles
+title: Resume
+subtitle: Experiences
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Développeur pour la science ouverte en archéologie
-    company: MMSH, Aix Marseille Université
+  - title: Developer for the open science in archaeology
+    company: MMSH, Aix Marseille University
     company_url: 'https://mmsh.fr'
     company_logo: mmsh
     location: Aix-en-Provence
@@ -32,13 +32,13 @@ experience:
     date_end: ''
     description: |2-
 
-        Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Institut Arkaia](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).  
+        Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Arkaia Institute](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).  
 
-        Coordination du déploiement d'ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), plateforme éditoriale de valorisation sémantique des données de la recherche en archéologie. Développement de son interface publique. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.
+        Coordination of the deployment of ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*),an editorial platform for the semantic valorisation of archaeological research data. Development of its public interface. Web development for various archaeological research projects. Participation in the work of the MMSH's Publishing Unit.
 
 
-  - title: Chargé de cours en cartographie
-    company: Université Paul Valéry
+  - title: Lecturer in cartography
+    company: Paul Valéry University
     company_url: 'https://www.univ-montp3.fr/'
     company_logo: upv
     location: Montpellier, Béziers
@@ -46,9 +46,9 @@ experience:
     date_end: ''
     description: |2- 
         
-        Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et manipulation de données, cartographie thématique. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus.
+        Teacher in cartography at Béziers IUT and for the Urba Master, Paul Valéry University. Field surveys, data collection and manipulation, thematic cartography. Main tools: QGIS, MAGRIT, Inkscape, Scribus.
 
-  - title: Ingénieur de recherche, projet *Climat*
+  - title: Research engineer, CLIMAT Project
     company: SATT Sud-Est
     company_url: 'https://sattse.com'
     company_logo: sattse
@@ -57,10 +57,10 @@ experience:
     date_end: '2018-11-01'
     description: |2-  
 
-        Conception et développement de [la maquette MACLI](https://www.sattse.com/16262/) de simulation de l'îlot de chaleur urbain, en partenariat avec le rectorat de l’Académie d'Aix-Marseille. Participation à la conception et mise en place d’une campagne de mesure de l’îlot de chaleur urbain à Marseille en situation de canicule. Grâce à un parte­nar­i­at avec le rec­torat d’Aix-Mar­seille, trois exem­plaires de la maque­tte ont cir­culé dans plusieurs col­lèges et lycées pen­dant un an, accom­pa­g­nées d’un pro­gramme péd­a­gogique dédié, con­tribuant à sen­si­bilis­er les plus jeunes aux ques­tions cli­ma­tiques et écologiques en milieu urbain.
+        Design and development of [the MACLI model](https://www.sattse.com/16262/) for the simulation of the urban heat island. Participation in the design and implementation of a campaign to measure the urban heat island in Marseille during a heat wave. Thanks to a partnership with the rectorat of Aix-Marseille, three copies of the model have circulated in several colleges and high schools during one year, accompanied by a dedicated educational program, contributing to raise awareness among young people to climate and ecological issues in urban areas.
         
-  - title: Ingénieur d'études, géomaticien
-    company: LPED, Aix-Marseille Université
+  - title: Research engineer in geospatial data management
+    company: LPED Laboratory, Aix-Marseille University
     company_url: 'https://lped.fr' 
     company_logo: lped
     location: Marseille
@@ -68,10 +68,10 @@ experience:
     date_end: '2017-07-01'
     description: |2-
 
-        Mise en place d'une infrastructure de données géographiques basé sur Geonode. Intégration des données issues de l'axe TRAMES et de l'Observatoire Société-Environnement.
+        Implementation of a spatial data infrastructure (SDI) based on Geonode. Integration of data from the TRAMES axis and the Society-Environment Observatory.
 
-  - title: Chargé de projet *Mediterranean Cities and Climate Change*
-    company: LPED, Aix-Marseille Université
+  - title: Project manager for the *Mediterranean Cities and Climate Change* International Research Network
+    company: LPED Laboratory, Aix-Marseille University
     company_url: 'https://lped.fr'
     company_logo: lped
     location: Marseille
@@ -79,9 +79,9 @@ experience:
     date_end: '2017-02-28'
     description: 
         
-        Montage et animation du réseau international MC3. Gestion administrative, conception d'un outil web d'inventaire et d'archivage des projet urbains intégrant la préoccupation climatique, organisation d'événements scientifiques et de médiation.
+        Setting up and animation of the MC3 international network. Administrative management, design of a web tool for inventory and archiving of urban projects integrating climate concerns, organization of scientific and mediation events.
 
-  - title: Artiste, co-fondateur et membre actif
+  - title: Artist, co-founder and active member
     company: La Folie Kilomètre
     company_url: 'https://lafoliekilometre.org'
     company_logo: lafolie
@@ -90,10 +90,10 @@ experience:
     date_end: '2014-12-31'
     description: |2-
 
-        "Basée à Marseille, La Folie Kilomètre est un collectif de création en espace public fondé en 2011. Elle regroupe des artistes issus du spectacle vivant, des arts plastiques et de l’aménagement du territoire. À la croisée de ces pratiques, nous imaginons des expéditions, spectacles, promenades et ateliers. De la cartographie sensible à la création sonore, de l’installation visuelle au tableau vivant, les disciplines dialoguent et leurs contours se fondent dans un langage métissé. Monumentales ou minuscules, nos interventions jouent avec les échelles des lieux et les niveaux de lecture."*
-        [Entretien avec la revue Strabic](http://strabic.fr/La-Folie-Kilometre) (mars 2014)
+        "Based in Marseille, La Folie Kilomètre is a collective of creation in public space founded in 2011. It brings together artists from the performing arts, visual arts and land planning. At the crossroads of these practices, we imagine expeditions, shows, walks and workshops. From sensitive cartography to sound creation, from visual installation to live painting, disciplines dialogue and their contours merge in a mixed language. Monumental or tiny, our interventions play with the different scales of places and various levels of reading."
+        [Interview with Strabic magazine](http://strabic.fr/La-Folie-Kilometre) (March 2014)
 
-  - title: Géographe et cartographe *freelance*
+  - title: Freelance geographer and mapmaker
     company: Mapper.fr
     company_url: 'https://mapper.fr'
     company_logo: mapper
@@ -102,9 +102,9 @@ experience:
     date_end: '2015-01-30'
     description: |2-
         
-        Cartographie print, ateliers participatif, cartographie web dynamique, assistance à projets culturels et artistiques à dimension territoriale, etc. Clients : Libération, ATTAC, Marseille-Provence 2013, MuCEM, Mairie de Marseille, Cité des Arts de la Rue, les Éditions Lignes, Wildproject, Radio Grenouille...
+        Print cartography, participative workshops, dynamic web cartography, assistance to cultural and artistic projects with a territorial dimension, etc. Clients: Libération, ATTAC, Marseille-Provence 2013, MuCEM, Mairie de Marseille, Cité des Arts de la Rue, les Éditions Lignes, Wildproject, Radio Grenouille...
 
-  - title: Géomaticien
+  - title: GIS Analyst
     company: LPED, Aix-Marseille Université
     company_url: 'https://lped.fr'
     company_logo: lped
@@ -113,7 +113,7 @@ experience:
     date_end: '2010-12-31'
     description: |2-
 
-        Chargé d’études en géomatique dans le cadre du programme de recherche PUCA « enclaves résidentielles à Marseille » (LPED-UMR 151). Conception du SIG et du protocole d’enquête de terrain, cartographie, analyse spatiale, coordination des enquêtes de terrain.
+        Geomatic researcher in the PUCA research program "residential enclaves in Marseille" (LPED Laboratory). Design of the GIS and the field survey protocol, cartography, spatial analysis, coordination of field surveys.
 
 design:
   columns: '2'
