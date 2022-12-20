@@ -41,10 +41,10 @@ content:
   # office_hours:
   # appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
+    - icon: mastodon
       icon_pack: fab
-      name: Me contacter sur Twitter
-      link: 'https://twitter.com/mapperfr'
+      name: Me contacter sur Mastodon
+      link: 'https://mapstodon.space/@jeremy'
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
