@@ -3,7 +3,7 @@ title: Marseille la Blanche
 author: Jérémy Garniaux
 type: post
 date: 2009-01-09T14:04:19+00:00
-draft: true
+draft: false
 categories:
   - carnet
 tags:
