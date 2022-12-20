@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      -  carnet
+      -  en/carnet
     tag: ''
     category: ''
     publication_type: ''
