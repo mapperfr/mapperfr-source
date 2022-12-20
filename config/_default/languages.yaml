@@ -23,6 +23,9 @@ en:
     - name: Resume
       url: '#resume'
       weight: 20
+    - name: Carnet
+      url: '#carnet'
+      weight: 30
     - name: Contact
       url: '#contact'
       weight: 40
