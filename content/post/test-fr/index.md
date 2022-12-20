@@ -1,12 +1,11 @@
 ---
-title: Test
-date: 2022-12-01T08:20:11.411Z
+title: Test fr
+date: 2022-12-20T15:12:20.365Z
 draft: false
-slides:
-  theme: black
+featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-Test
+Test one two
