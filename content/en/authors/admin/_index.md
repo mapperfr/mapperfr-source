@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master's degree in Geography and Geomatics
+  - course: Master's degree in Geographical Sciences
     institution: Aix-Marseille University
     year: 2009
   # - course: Licence de géographie
