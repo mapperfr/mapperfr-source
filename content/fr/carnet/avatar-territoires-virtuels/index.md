@@ -1,5 +1,5 @@
 ---
-title: Avatar ou l’apologie des territoires virtuels
+title: 'Avatar ou l’apologie des territoires virtuels'
 author: Jérémy Garniaux
 type: post
 date: 2010-01-09T14:20:27+00:00

@@ -1,5 +1,5 @@
 ---
-title: 'Recensement 2006 à l’IRIS : l’INSEE pour les données, l’IGN pour les contours'
+title: 'Recensement 2006 à l’IRIS: l’INSEE pour les données, l’IGN pour les contours'
 author: Jérémy Garniaux
 type: post
 date: 2010-02-21T14:49:21+00:00

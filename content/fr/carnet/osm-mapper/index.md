@@ -1,5 +1,5 @@
 ---
-title: "OSM Mapper: suivre l’avancée d’un secteur sur OpenStreetMap"
+title: 'OSM Mapper: suivre l’avancée d’un secteur sur OpenStreetMap'
 author: Jérémy Garniaux
 type: post
 date: 2010-01-11T13:11:24+00:00
@@ -10,7 +10,6 @@ tags:
   - ITO
   - openstreetmap
   - OSM Mapper
-
 ---
 
 [OSM Map­per](http://product.itoworld.com/product/osm/map) est un ser­vice mis en place par [ITO](http://www.itoworld.com/), une société anglaise de car­togra­phie en ligne, en asso­ci­a­tion avec Ideas In Tran­sit, un pro­jet de recherche sur l’in­no­va­tion tech­nologique dans le domaine des trans­ports. OSM Map­per per­met de suiv­re l’évo­lu­tion de la car­togra­phie d’un ter­ri­toire dans Open­StreetMap. Après avoir déter­miné le secteur que l’on souhaite suiv­re, on peut :
