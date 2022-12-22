@@ -12,7 +12,6 @@ tags:
   - dans la mesure du possible
   - marseille
   - radio grenouille
-
 ---
 
 ![](albums/carnet/centre_gravite-282x300-1.jpg)
