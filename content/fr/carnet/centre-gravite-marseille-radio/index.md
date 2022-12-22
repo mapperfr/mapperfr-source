@@ -16,7 +16,7 @@ tags:
 
 ![](albums/carnet/centre_gravite-282x300-1.jpg)
 
-<!-- ![](albums/carnet/centre-ville-de-gravite.mp3) -->
+{{< audio src="centre-ville-de-gravite.mp3" >}}
 
 [Ren­con­tre autour du cen­tre (ville) de grav­ité de Mar­seille](https://www.radiogrenouille.com/programmes/actualites/rencontre-autour-du-centre-ville-de-gravite-de-marseille/): une dis­cus­sion avec Clé­ment Baudet de Radio Grenouille, écoutable en ligne et red­if­fusée le jeu­di 19 mai à 13h30 sur la radio marseillaise.
 
