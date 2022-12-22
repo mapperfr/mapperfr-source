@@ -14,7 +14,7 @@ tags:
   - radio grenouille
 ---
 
-<!-- ![](albums/carnet/centre_gravite-282x300-1.jpg) -->
+![](albums/carnet/centre_gravite-282x300-1.jpg)
 
 <!-- ![](albums/carnet/centre-ville-de-gravite.mp3) -->
 
