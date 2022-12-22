@@ -3,7 +3,7 @@ title: "OSM Mapper: suivre l’avancée d’un secteur sur OpenStreetMap"
 author: Jérémy Garniaux
 type: post
 date: 2010-01-11T13:11:24+00:00
-draft: true
+draft: false
 categories:
   - travaux
 tags:
