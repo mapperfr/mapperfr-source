@@ -1,5 +1,5 @@
 ---
-title: “Dans le monde merveilleux des résidences fermées”
+title: Dans le monde merveilleux des résidences fermées
 author: Jérémy Garniaux
 type: post
 date: 2010-03-08T21:07:37+00:00
