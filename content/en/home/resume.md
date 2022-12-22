@@ -91,7 +91,7 @@ experience:
     description: |2-
 
         "Based in Marseille, La Folie Kilomètre is a collective of creation in public space founded in 2011. It brings together artists from the performing arts, visual arts and land planning. At the crossroads of these practices, we imagine expeditions, shows, walks and workshops. From sensitive cartography to sound creation, from visual installation to live painting, disciplines dialogue and their contours merge in a mixed language. Monumental or tiny, our interventions play with the different scales of places and various levels of reading."
-        [Interview with Strabic magazine](http://strabic.fr/La-Folie-Kilometre) (March 2014)
+        [Interview with Strabic magazine](https://strabic.fr/La-Folie-Kilometre) (March 2014)
 
   - title: Freelance geographer and mapmaker
     company: Mapper.fr

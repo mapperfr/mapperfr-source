@@ -91,7 +91,7 @@ experience:
     description: |2-
 
         "Basée à Marseille, La Folie Kilomètre est un collectif de création en espace public fondé en 2011. Elle regroupe des artistes issus du spectacle vivant, des arts plastiques et de l’aménagement du territoire. À la croisée de ces pratiques, nous imaginons des expéditions, spectacles, promenades et ateliers. De la cartographie sensible à la création sonore, de l’installation visuelle au tableau vivant, les disciplines dialoguent et leurs contours se fondent dans un langage métissé. Monumentales ou minuscules, nos interventions jouent avec les échelles des lieux et les niveaux de lecture."*
-        [Entretien avec la revue Strabic](http://strabic.fr/La-Folie-Kilometre) (mars 2014)
+        [Entretien avec la revue Strabic](https://strabic.fr/La-Folie-Kilometre) (mars 2014)
 
   - title: Géographe et cartographe *freelance*
     company: Mapper.fr

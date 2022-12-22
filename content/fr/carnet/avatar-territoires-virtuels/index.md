@@ -17,5 +17,5 @@ tags:
   
 L’ensem­ble de l’ar­ti­cle, en plus d’être assez per­ti­nent, est parsemé de traits d’hu­mour. À lire!
 
- [1]: http://www.nplusonemag.com/dont-play-or-youll-go-blind
- [2]: http://www.steamthing.com/
+ [1]: https://www.nplusonemag.com/dont-play-or-youll-go-blind
+ [2]: https://www.steamthing.com/
