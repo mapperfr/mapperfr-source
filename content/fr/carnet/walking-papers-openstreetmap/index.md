@@ -42,7 +42,7 @@ Comme l’indique le site, un niveau de zoom d’au moins 14 est néces­saire p
 
 Il n’y a plus qu’à imprimer et à aller se balad­er… En plus de not­er tous les élé­ments absents de la carte d’o­rig­ine, on prof­it­era de la sor­tie pour véri­fi­er ce qui est déjà car­tographié, notam­ment les noms de rues.
 
-*   **Ren­voy­er la carte sur les serveurs de Walk­ing Papers après le terrain**
+## Ren­voy­er la carte sur les serveurs de Walk­ing Papers après le terrain
 
 Voilà à quoi ressem­blait ma carte une fois re-scannée :
 
