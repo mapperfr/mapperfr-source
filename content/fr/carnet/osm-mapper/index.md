@@ -19,10 +19,7 @@ tags:
 - Observ­er et analyser la présence et la dif­fu­sion de tags par­ti­c­uliers sur le secteur ;
 - Créer des listes de noms de rues, d’é­coles, etc.
 
-[![OSM Mapper](https://farm3.static.flickr.com/2678/4266062996_892d2e1e8a.jpg)](https://farm3.static.flickr.com/2678/4266062996_19b337cd98_o.png)
-
-_[La  fenêtre prin­ci­pale d’OSM Map­per, cen­trée sur Marseille  
-](https://www.flickr.com/photos/g-o-graphics/4266062996/)_
+![OSM Mapper](albums/blog/osmmapper.png)  
 
 L’in­térêt d’OSM Map­per est qu’il repose sur des don­nées mis­es à jour quo­ti­di­en­nement depuis la base de don­nées OSM. Une inscrip­tion est néces­saire pour pou­voir l’u­tilis­er : une fois enreg­istré, il suf­fit de se con­necter pour définir le ou les secteurs que l’on souhaite sur­veiller, tout sim­ple­ment par sélec­tion rec­tan­gu­laire sur une fenêtre de car­to dynamique.
 
