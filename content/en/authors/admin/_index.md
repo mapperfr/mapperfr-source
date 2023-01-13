@@ -68,7 +68,7 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Geographer, mapmaker and developer currently working at [LAMPEA](https://lampea.cnrs.fr) at the [MMSH](https://mmsh.fr) in Aix-en-Provence, France. I'm also teaching cartography at Paul-Valéry University in Montpellier. I've been working previously as a freelance mapmaker and geographer, as a project manager at [LPED](https://lped.fr) for the [MC3 international research network](https://mc3.lped.fr) and as a research engineer at [SATT Sud-Est](https://sattse.com/) where, with a team of urban planners and climatologists, I conceived and built the [MACLI pedagogical model](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) for the simulation of the urban heat island. 
+Geographer, mapmaker and developer currently working for the [LAMPEA](https://lampea.cnrs.fr) laboratory at the [MMSH](https://mmsh.fr) in Aix-en-Provence (Fr). I'm also teaching cartography at Paul-Valéry University in Montpellier. I've been working previously as a freelance mapmaker and geographer, as a project manager at [LPED](https://lped.fr) for the [MC3 international research network](https://mc3.lped.fr) and as a research engineer at [SATT Sud-Est](https://sattse.com/) where, with a team of urban planners and climatologists, I conceived and built the [MACLI pedagogical model](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) for the simulation of the urban heat island. 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}Full resume (fr){{< /staticref >}}
 
