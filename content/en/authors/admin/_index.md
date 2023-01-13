@@ -11,8 +11,8 @@ role: Developer for the open science in archaeology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Aix-Marseille University, Maison Méditerranéenne des Sciences de l'Homme
-  url: https://www.mmsh.fr
+- name: Aix-Marseille University
+  url: https://www.univ-amu.fr
 
 # Short bio (displayed in user profile at end of posts)
 bio: Geographer & developer
@@ -44,9 +44,6 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://mapstodon.space/@jeremy
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mapperfr
@@ -71,7 +68,7 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Hi and welcome to my personal page! I'm a geographer and developer working at [LAMPEA](https://lampea.cnrs.fr) lab in Aix-en-Provence, France, on the development of [ArcaDIIS](https://arcadiis.science), as in Archaeological Data Infrastructure for Interoperability and Sharing. I've been working previously as a freelance mapmaker and geographer, as a project manager at [LPED](https://lped.fr) for the [MC3 international research network](https://mc3.lped.fr) and as a research engineer at [SATT Sud-Est](https://sattse.com/) where, with a team of urban planners and climatologists, I conceived and built the [MACLI pedagogical model](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) for the simulation of the urban heat island. 
+Geographer, mapmaker and developer currently working at [LAMPEA](https://lampea.cnrs.fr) at the [MMSH](https://mmsh.fr) in Aix-en-Provence, France. I'm also teaching cartography at Paul-Valéry University in Montpellier. I've been working previously as a freelance mapmaker and geographer, as a project manager at [LPED](https://lped.fr) for the [MC3 international research network](https://mc3.lped.fr) and as a research engineer at [SATT Sud-Est](https://sattse.com/) where, with a team of urban planners and climatologists, I conceived and built the [MACLI pedagogical model](https://gomet.net/environnement-macli-un-kit-pedagogique-pour-comprendre-les-microclimats-urbains/) for the simulation of the urban heat island. 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_garniaux_2022.pdf" "newtab" >}}Full resume (fr){{< /staticref >}}
 
