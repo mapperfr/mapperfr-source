@@ -34,7 +34,7 @@ experience:
 
         Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Institut Arkaia](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).  
 
-        Coordination du déploiement d'ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), plateforme éditoriale de valorisation sémantique des données de la recherche en archéologie. Développement de son interface publique. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.
+        Coordination du déploiement d'ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), plateforme éditoriale de valorisation sémantique des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.
 
 
   - title: Chargé de cours en cartographie
