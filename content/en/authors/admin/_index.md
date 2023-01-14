@@ -68,5 +68,5 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Hi! I'm a geographer, mapmaker and developer currently working for the [LAMPEA](https://lampea.cnrs.fr) laboratory at [MMSH](https://mmsh.fr) in Aix-en-Provence (Fr). I'm also an assistant Professor in cartography at Paul-Valéry University in Montpellier. I've been working previously as a freelance mapmaker and geographer, as a project manager at [LPED](https://lped.fr) for the [MC3 international research network](https://mc3.lped.fr) and as a research engineer at [SATT Sud-Est](https://sattse.com/) where, with a team of urban planners and climatologists, I helped to design and build a pedagogical model simulating the urban heat island.
+Hi! I'm a geographer, mapmaker and developer currently working for the [LAMPEA](https://lampea.cnrs.fr) laboratory at [MMSH](https://mmsh.fr) in Aix-en-Provence (Fr). I'm also an assistant professor in cartography at Paul-Valéry University in Montpellier. I've been working previously as a freelance mapmaker and geographer, as a project manager at [LPED](https://lped.fr) for the [MC3 international research network](https://mc3.lped.fr) and as a research engineer at [SATT Sud-Est](https://sattse.com/) where, with a team of urban planners and climatologists, I helped to design and build a pedagogical model simulating the urban heat island.
 
