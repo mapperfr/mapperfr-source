@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Ingénieur d'études, développeur et _research data manager_
+  - title: Ingénieur d'études, développeur pour la science ouverte en archéologie
     company: MMSH, Aix Marseille Université
     company_url: 'https://mmsh.fr'
     company_logo: mmsh
