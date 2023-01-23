@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Développeur pour la science ouverte en archéologie
+  - title: Ingénieur d'études, développeur et _research data manager_
     company: MMSH, Aix Marseille Université
     company_url: 'https://mmsh.fr'
     company_logo: mmsh
@@ -34,10 +34,10 @@ experience:
 
         Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Institut Arkaia](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).  
 
-        Coordination du déploiement d'ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), plateforme éditoriale de valorisation sémantique des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.
+        Déploiement d'ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), plateforme de partage des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.
 
 
-  - title: Chargé de cours en cartographie
+  - title: Enseignant en cartographie
     company: Université Paul Valéry
     company_url: 'https://www.univ-montp3.fr/'
     company_logo: upv
