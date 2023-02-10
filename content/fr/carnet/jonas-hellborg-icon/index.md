@@ -1,5 +1,5 @@
 ---
-title: \[chronique\] Jonas Hellborg - Icon
+title: "[chronique] Jonas Hellborg - Icon"
 author: Jérémy Garniaux
 type: post
 date: 2003-03-08T12:20:27+00:00
@@ -14,7 +14,6 @@ tags:
   - jazz
 
 ---
-
 Depuis plus de vingt ans, Jonas Hellborg explore inlassablement le monde de la musique, tentant des mélanges à priori improbables (deux basses dans un seul groupe, des collaborations avec des musiciens syriens, indiens), qui s'avèrent pourtant à chaque fois réussis. Le bassiste suédois a en effet une vision universelle de la musique, et celui qui aimerait le classer définitivement dans telle ou telle catégorie s'en trouverait bien incapable.
 
 Mais quel serait alors le dénominateur commun à tous ses disques ? La basse, bien sûr. Mais une basse inventive, unique, qui s'affirme avec le temps comme de plus en plus mélodique. De son approche originale de l'instrument, Hellborg dira par exemple s'être inspiré des joueurs de tablas pour créer ses différentes techniques de slap ; on reconnaît en lui un admirateur de Jaco Pastorius (le Jimi Hendrix de la basse), mais également de John McLaughlin et de son Mahavishnu Orchestra. Il va d'ailleurs faire ses armes dans ce groupe, avant de se lancer dans une carrière solo extrêmement prolifique (à peu de choses près, 40 albums aujourd'hui), mais malheureusement relativement confidentielle. Les errances des débuts, marqués par une sonorité "'années 80" un peu trop marquée, vont faire petit à petit place à une œuvre étonnante de qualité, de profondeur.
