@@ -1,5 +1,5 @@
 ---
-title: '[chronique] Jonas Hellborg - Icon'
+title: [chronique] Jonas Hellborg - Icon
 author: Jérémy Garniaux
 type: post
 date: 2003-03-08T12:20:27+00:00
