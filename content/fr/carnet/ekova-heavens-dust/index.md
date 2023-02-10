@@ -27,4 +27,5 @@ J'ai parlé plus haut d'André Gielen, ingénieur du son qui travaille avec Lofo
 
 Finalement, Heaven's Dust est bien une véritable perle... dont on n'a pas fini d'admirer les reflets, tant est grande sa richesse musicale !
 
---- Ekova, _Heaven's Dust_, Atmosphériques, 1998. Chronique publiée initialement sur ACS.
+--- Ekova, _Heaven's Dust_, Atmosphériques, 1998  
+_Chronique publiée initialement sur acontresens.com_
