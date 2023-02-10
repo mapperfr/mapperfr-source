@@ -6,9 +6,11 @@ date: 2002-12-25T12:20:27+00:00
 draft: false
 categories:
   - carnet
+  - digressions
 tags:
-  - avatar
-  - territoires
+  - musique
+  - chronique
+  - world music
 
 ---
 Heaven's Dust, sorti en 1998, est le premier album de ce groupe de world music... au sens propre, car avec une chanteuse Américaine, un percussioniste Iranien et un joueur d'oûd Algérien, Ekova peut se vanter d'avoir redéfini le terme "mondialisation" !
@@ -25,4 +27,4 @@ J'ai parlé plus haut d'André Gielen, ingénieur du son qui travaille avec Lofo
 
 Finalement, Heaven's Dust est bien une véritable perle... dont on n'a pas fini d'admirer les reflets, tant est grande sa richesse musicale !
 
--> Ekova, _Heaven's Dust_, Atmosphériques, 1998
+  > Ekova, _Heaven's Dust_, Atmosphériques, 1998. Chronique publiée initialement sur ACS.
