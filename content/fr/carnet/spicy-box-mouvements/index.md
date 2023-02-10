@@ -31,4 +31,4 @@ Et si le message est révolutionnaire, les concernés préfèrent faire appel à
 Voilà où en était Spicy Box en 1997, à l’heure de son second et avant-dernier album. Aujourd’hui reste la forme, gravée en numérique. Le fond, lui s’est sûrement déformé : pas assez démago, sans doute. Dommage. Parce qu’il fallait bien tout un vingtième siècle pour accoucher d’un Spicy Box. 
 
 --- Spicy Box, _Mouvements_, Island, 1997
-_Chronique publiée initialement sur acontresens.com_c
+_Chronique publiée initialement sur acontresens.com_
