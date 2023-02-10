@@ -10,8 +10,9 @@ tags:
   - cartographie
   - luttes sociales
   - cqfd
+  - cresadt
 
 ---
-Carte parue en jan­vi­er 2012 <a href="http://cqfd-journal.org/Cartographie-des-luttes-dans-le" target="_blank">dans le men­su­el <i>CQFD</i></a>, pub­liée sous licence Cre­ative Com­mons <a href="http://creativecommons.org/licenses/by-nc/2.0/fr/" target="_blank">by-nc</a>.
+Carte réalisée par le Cresadt, parue en jan­vi­er 2012 <a href="http://cqfd-journal.org/Cartographie-des-luttes-dans-le" target="_blank">dans le men­su­el <i>CQFD</i></a>, pub­liée sous licence Cre­ative Com­mons <a href="http://creativecommons.org/licenses/by-nc/2.0/fr/" target="_blank">by-nc</a>.
 
 ![](mouvements_sociaux_dans_le_monde_en_2011.png)
