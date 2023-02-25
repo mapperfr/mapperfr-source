@@ -34,7 +34,7 @@ experience:
 
         Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Institut Arkaia](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).  
 
-        Déploiement d'ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), plateforme de partage des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.
+        Développement d'ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), plateforme de partage des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.
 
 
   - title: Enseignant en cartographie
@@ -46,7 +46,7 @@ experience:
     date_end: ''
     description: |2- 
         
-        Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et manipulation de données, cartographie thématique. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus.
+        Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et traitement de données hétérogènes, analyse spatiale et cartographie. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus.
 
   - title: Ingénieur de recherche, projet *Climat*
     company: SATT Sud-Est

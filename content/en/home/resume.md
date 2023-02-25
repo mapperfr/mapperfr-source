@@ -34,7 +34,7 @@ experience:
 
         Maison Méditerranéenne des Sciences de l'Homme, [Mediterranean Laboratory of Prehistory Europe Africa](https://lampea.cnrs/fr), [Arkaia Institute](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).  
 
-        Coordination of the deployment of ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), an editorial platform for the semantic valorisation of archaeological research data. Web development for various archaeological research projects. Participation in the works of the MMSH's Publishing Unit.
+        Development of ArcaDIIS (*Archaeological Data Infrastructure for Interoperability and Sharing*), an editorial platform for the valorisation of archaeological research data. Web development for various archaeological research projects. Participation in the works of the MMSH's Publishing Unit.
 
 
   - title: Lecturer in cartography
@@ -46,7 +46,7 @@ experience:
     date_end: ''
     description: |2- 
         
-        Teacher in cartography at Béziers IUT and for the Urba Master, Paul Valéry University. Field surveys, data collection and manipulation, thematic cartography. Main tools: QGIS, MAGRIT, Inkscape, Scribus.
+        Teacher in cartography at Béziers IUT and for the Urba Master, Paul Valéry University. Field surveys, heterogenous data wrangling, spatial analysis and cartography. Main tools: QGIS, MAGRIT, Inkscape, Scribus.
 
   - title: Research engineer, CLIMAT Project
     company: SATT Sud-Est
@@ -57,7 +57,7 @@ experience:
     date_end: '2018-11-01'
     description: |2-  
 
-        Design and development of [the MACLI model](https://www.sattse.com/16262/) for the simulation of the urban heat island. Participation in the design and implementation of a campaign to measure the urban heat island in Marseille during a heat wave. Thanks to a partnership with the rectorat of Aix-Marseille, three copies of the model have circulated in several colleges and high schools during one year, accompanied by a dedicated educational program, contributing to raise awareness among young people to climate and ecological issues in urban areas.
+        Design and development of [the MACLI model](https://www.sattse.com/16262/) for the simulation of the urban heat island. Participation in the design and implementation of a campaign to measure the urban heat island in Marseille during a heat wave. Thanks to a partnership with the Rectorat of Aix-Marseille (regional school authority), three copies of the model have circulated in several colleges and high schools during one year, accompanied by a dedicated educational program, contributing to raise awareness among young people to climate and ecological issues in urban areas.
         
   - title: Research engineer in geospatial data management
     company: LPED Laboratory, Aix-Marseille University
