@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeremy Garniaux
+title: Jérémy Garniaux
 
 # Is this the primary user of the site?
 superuser: true

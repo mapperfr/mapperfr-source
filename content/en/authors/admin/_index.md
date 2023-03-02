@@ -1,7 +1,7 @@
 ---
 
 # Display name
-title: Jeremy Garniaux
+title: Jérémy Garniaux
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,7 +15,7 @@ organizations:
   url: https://www.univ-amu.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geographer & developer
+bio: Cartographer & developer
 
 # Interests to show in About widget
 interests:
