@@ -14,7 +14,7 @@ organizations:
   url: https://www.univ-amu.fr 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Géographe, cartographe & développeur
+bio: Cartographe & développeur
 
 # Interests to show in About widget
 interests:
@@ -67,8 +67,4 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-<!-- Je suis géographe et géomaticien de formation. Après avoir exercé comme cartographe indépendant, comme artiste-auteur au sein du collectif [La Folie Kilomètre](https://lafoliekilometre.org) ou comme géomaticien au service de la recherche en urbanisme et environnement, j'ai rejoint le [LAMPEA](https://lampea.cnrs.fr) en 2020 pour coordonner le développement d'[ArcaDIIS](https://arcadiis.science), infrastructure de données archéologiques pour l'interopérabilité et le partage. Je suis également chargé de cours en cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier, et à l'IUT de Béziers.
-
-À long terme, j'essaie de mettre en oeuvre des approches créatives pour répondre à des questions actuelles et complexes à la croisée de la science et de la société, avec un focus sur la dimension spatiale et à l'aide d'outils libres et open source. -->
-
-Géographe, cartographe et développeur, je travaille actuellement au [LAMPEA](https://lampea.cnrs.fr), à la [MMSH](https://mmsh.fr) d'Aix-en-Provence, et j'enseigne la cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier. J’ai exercé aupar­a­vant comme car­tographe indépendant, comme chargé de projet au [LPED](https://lped.fr) pour le [réseau de recherche inter­na­tion­al MC3](https://mc3.lped.fr), puis comme ingénieur de recherche au sein de la [SATT Sud-Est](https://sattse.com/).
+Cartographe et développeur, je travaille actuellement au sein du [LAMPEA](https://lampea.cnrs.fr), à la [MMSH](https://mmsh.fr) d'Aix-en-Provence, au développement d'outils et de workflows pour la science ouverte en archéologie. J'enseigne en parallèle la cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier. Je suis également le [créateur](https://mapper.fr/carnet/introducing-mapstodon/) de [mapstodon.space](https://mapstodon.space), une instance Mastodon dédiée à la cartographie qui rassemble aujourd'hui un millier de personnes. D'une manière générale, j'aime mettre en oeuvre des approches créatives pour répondre à des questions complexes à la croisée de la science et de la société, avec un focus sur la dimension spatiale et à l'aide d'outils libres et de données ouvertes. Je suis parfois disponible pour réaliser des prestations [autour de la cartographie et/ou de l'open data](https://mapper.fr/en/blog/social-position-index/). [N'hésitez pas à me contacter](https://mapper.fr/en/#contact)!
