@@ -1,3 +1,15 @@
+---
+title: Walden Pond
+author: Jérémy Garniaux
+type: post
+date: 
+draft: true
+categories:
+  - 
+tags:
+  - 
+---
+
 Je viens de recevoir le premier numéro de mon abonnement tout frais à [Walden Pond](https://waldenpond.press/), "*un magazine papier qui arrive une fois par mois par la poste (...), rempli d'une sélection d'articles que vous avez sauvegardés dans votre compte Pocket*".
 
 Walden Pond est un projet de l'Australien [Ben Doherty](https://notionparallax.co.uk/). Il s'inscrit dans la vague d'initiatives visant à réduire notre temps d'écran et à soigner notre addiction numérique. Ben Doherty défend une approche modérée du concept de *digital detox*, qu'il explique en convoquant *La vie dans les bois* d'Henry David Thoreau, : 
