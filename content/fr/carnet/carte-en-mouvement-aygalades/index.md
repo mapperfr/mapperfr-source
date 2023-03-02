@@ -2,7 +2,7 @@
 title: Carte en mouvement des Aygalades
 author: Jérémy Garniaux
 type: post
-date: 2013-05-01T08:00:15+00:00
+date: 2013-04-01T08:00:15+00:00
 categories:
   - travaux
 tags:
@@ -17,14 +17,14 @@ tags:
 
 Carte réal­isée lors d’une rési­dence à la [Cité des arts de la rue](http://www.lacitedesartsdelarue.net) et pub­liée dans un numéro spé­cial de _la Mar­seil­laise_ sur le pat­ri­moine dans les quartiers nord, en sep­tem­bre 2011, à l’oc­ca­sion des journées européennes du patrimoine.
 
-![](albums/carnet/aygalades/pages2-3.jpg).png
+![](albums/carnet/aygalades/pages2_3.jpg)
 
-![](albums/carnet/aygalades/DSC_0323.jpg).png
+![](albums/carnet/aygalades/DSC_0323.jpg)
 
-![](albums/carnet/aygalades/DSC_0324.jpg).png
+![](albums/carnet/aygalades/DSC_0324.jpg)
 
-![](albums/carnet/aygalades/DSC_0342.jpg).png
+![](albums/carnet/aygalades/DSC_0342.jpg)
 
-![](albums/carnet/aygalades/DSC_0344.jpg).png
+![](albums/carnet/aygalades/DSC_0344.jpg)
 
-![](albums/carnet/aygalades/page1+4-portrait.jpg).png
+![](albums/carnet/aygalades/page1_4.jpg)
