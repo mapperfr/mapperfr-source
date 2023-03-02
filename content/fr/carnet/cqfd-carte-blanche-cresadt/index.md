@@ -9,5 +9,18 @@ categories:
 tags:
   - cresadt
   - presse
+  - carte blanche
+  - cqfd
 ---
-L’an­née 2012 est l’oc­ca­sion pour le lab­o­ra­toire de lancer avec ent­hou­si­asme de nou­veaux parte­nar­i­ats. Le jour­nal [CQFD](http://www.cqfd-journal.org/), dont la répu­ta­tion n’est plus à faire, tou­jours prompt à inté­gr­er en amont la pri­or­ité socié­tale (on se rap­pellera par exem­ple son récent et vigoureux appel à envoy­er l’OTAN con­tre la dic­tature des marchés), est un des nou­veaux parte­naires du Cre­sadt. Les lecteurs retrou­veront désor­mais une carte par mois, conçue et réal­isée par nos experts, sur divers­es thé­ma­tiques rel­a­tives aux con­fig­u­ra­tions socio-spa­tiales mondiales.
+Depuis jan­vi­er 2012, le Cen­tre de recherch­es en sci­ences abscons­es du ter­ri­toire (Cre­sadt) dis­pose d’une tri­bune dans [CQFD](http://www.cqfd-journal.org), l’ex­cel­lent men­su­el de cri­tique et d’ex­péri­men­ta­tion sociales fab­riqué à Mar­seille et dis­tribué partout en France.
+
+> Le Cre­sadt est né à Bor­deaux à l’au­tomne 2011. Il est l’in­ex­plic­a­ble résul­tat d’une série d’ac­tions chao­tiques. Face A, le Cre­sadt par­le de sci­ence, de jar­gon, de société et d’en­tre-soi. Il a beau­coup de choses à dire et par­fois pas assez de mots, mais s’ap­plique à en inven­ter le plus pos­si­ble. Face B, le Cre­sadt fait de vraies choses avec de vrais gens sans aucun plan de car­rière. De manière générale, il con­sid­ère qu’un bon calem­bour vaut mieux qu’une mau­vaise théorie, mais ne rechigne jamais à dis­cuter cette asser­tion autour d’un bon verre.
+
+Retrouvez les cartes du laboratoire [sur le site de CQFD](https://cqfd-journal.org/le-CRESADT)
+
+![](albums/carnet/travaux/DSC_0288_small.jpg)
+![](albums/carnet/travaux/DSC_0282_small.jpg)
+![](albums/carnet/travaux/DSC_0293_small.jpg)
+![](albums/carnet/travaux/DSC_0296_small.jpg)
+![](albums/carnet/travaux/DSC_0287_small.jpg)
+![](albums/carnet/travaux/DSC_0279_small.jpg)
