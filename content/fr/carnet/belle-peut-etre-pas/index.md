@@ -41,4 +41,4 @@ Cartes et ani­ma­tion : Noé Guiraud
 
 ![](albums/carnet/travaux/DSC_8386_small.jpg)
 
-![Télécharger le texte de l'exposition (PDF)](Alhambra_textes.zip)
+[Télécharger le texte de l'exposition (PDF)](Alhambra_textes.zip)
