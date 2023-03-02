@@ -3,7 +3,7 @@ title: CQFD donne carte blanche au Cresadt
 author: Jérémy Garniaux
 type: post
 date: 2012-02-09T10:38:44+00:00
-draft: true
+draft: false
 categories:
   - cresadt
 tags:
