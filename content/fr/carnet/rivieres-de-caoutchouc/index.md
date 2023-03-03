@@ -65,4 +65,4 @@ Le tour de France se ter­mine sur les Pyrénées. Ici, pas de nou­veautés : A
 
 Le grand Sud-Est brille par son absence mais la balade se ter­mine ! Pour con­clure en changeant un peu d’échelle, je vous laisse avec cette presque-France de tam­pons, bidouil­lée sous Inkscape, mais qu’on imag­in­erait bien sur une feuille de buvard bleu 24x32.
 
-![](presquefrance.png)
+![](albums/carnet/rivieres_caoutchouc/presquefrance.png)
