@@ -47,7 +47,7 @@ Et face au rythme effréné de la con­struc­tion, Lynch introduit:
 
 Cette dernière cita­tion rap­pelle la pos­ture de l’au­teur, qui adopte un ton large­ment pre­scrip­tif. La con­clu­sion de ce tra­vail est la défense d’un besoin de lis­i­bil­ité ou d’**imag­i­bil­ité** de notre envi­ron­nement urbain, c’est-à-dire la capac­ité d’un espace à provo­quer "une image forte chez n’im­porte quel observateur"."
 
-![](carte_de_mots.jpg)
+![](albums/carnet/nord_mental/carte_de_mots.jpg)
 
 ## L’atelier “cartes mentales”
 
@@ -59,7 +59,7 @@ Plutôt que la **prob­lé­ma­tique** dévelop­pée dans _L’im­age de la C
 
 - De pro­pos­er, à par­tir de ces ren­con­tres, une ou plusieurs resti­tu­tions con­stru­ites en croisant les regards sci­en­tifiques et artis­tiques, et envis­agées comme sup­port à d’autres dis­cus­sions et débats dans dif­férents lieux. Cette dialec­tique art ↔ sci­ence a don­né une tonal­ité assez expéri­men­tale à l’ate­lier, puisque les ques­tion­nements eux-mêmes ont évolué au fil du travail.
 
-![](du_merlan_aux_aygalades.png)
+![](albums/carnet/nord_mental/du_merlan_aux_aygalades.png)
 
 Pen­dant trois semaines, nous avons demandé aux per­son­nes ren­con­trées – habi­tants, tra­vailleurs, com­merçants ou sim­ples pas­sants – de dessin­er des cartes de ces quartiers, tout en ayant une dis­cus­sion sur les cartes et le ter­ri­toire con­cerné. Deux pro­to­coles dif­férents ont été suivis:
 
@@ -81,7 +81,7 @@ Ces paroles sont de nature dif­férentes et peu­vent être classées selon qua
 
 Ces paroles récoltées per­me­t­tent de soutenir l’idée qu’une ville n’est pas un tout uni­forme, mais existe sous mille formes à tra­vers les visions de ceux qui la pra­tiquent. A côté de ces élé­ments, nous avons con­stru­it plusieurs cartes don­nant à voir l’e­space vécu et perçu des quartiers Nord de Marseille.
 
-![](wordle2.png)
+![](albums/carnet/nord_mental/wordle2.png)
 
 ### Poursuivre l’expérience au fil des restitutions et des rencontres
 
@@ -98,7 +98,7 @@ La quar­an­taine de relevés que nous avons récolté pose la ques­tion de la
 
 - Enfin, une troisième resti­tu­tion a eu lieu dans le cadre du fes­ti­val Petit Art Petit, organ­isé par Lézara­p’art dans le Parc de l’Oa­sis, aux Aygalades dans le 15e arrondisse­ment, le same­di 25 sep­tem­bre 2010. Une cinquan­taine de per­son­nes, tout au long de l’après midi, sont venues décou­vrir l’ate­lier, et par­ticiper pour une quin­zaine d’en­tre eux à la pour­suite de l’ex­péri­ence, en mod­i­fi­ant une “carte à plusieurs”: sur un tableau blanc sur lequel le trait de côte était dess­iné au feu­tre, des éti­quettes aiman­tées por­tant le nom des quartiers (formels ou informels) étaient à dis­pos­er. Un feu­tre et un tam­pon effaceur étaient aus­si à dis­po­si­tion pour com­pléter la carte. Les con­tri­bu­tions des pre­miers étant par­fois défaites par les suiv­ants, chaque étape a été immortalisée en pho­to. Une image ani­mée rend compte de l’évo­lu­tion de la carte au fil de l’après-midi (cli­quer sur la pho­to pour ouvrir l’animation).
 
-![](carteaplusieurs.gif)
+![](albums/carnet/nord_mental/carteaplusieurs.gif)
 
 D’autre part, une tri­bune a été pub­liée dans _le Ravi_ du mois d’oc­to­bre 2010 ("la ville, c’est pas très loin").
 
@@ -106,4 +106,4 @@ Pour con­clure pro­vi­soire­ment, au-delà d’un ren­du fixe et défini­t
 
 Les pistes ouvertes par l’ate­lier “cartes men­tales” sont nom­breuses. Nous souhaitons garder la porte ouverte à une pour­suite du proces­sus, au sein des dif­férentes struc­tures de l’outil com­mun, sous la forme par exem­ple de « cab­i­nets d’en­reg­istrement d’e­spaces vécus ». Ce tra­vail vien­dra égale­ment nour­rir un tra­vail de recherche en cours sur les rela­tions entre cul­ture et amé­nage­ment dans la métro­pole provençale.
 
-![](quelques_points_de_reperes.jpg)
+![](albums/carnet/nord_mental/quelques_points_de_reperes.jpg)
