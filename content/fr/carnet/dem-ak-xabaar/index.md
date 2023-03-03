@@ -27,8 +27,6 @@ Mah­moud Tra­oré et Bruno le Dan­tec avec Sonia Retamero, _“Dem Ak Xabaar�
 
 {{< audio src="traore_dantec_partir_raconter.mp3" >}}
 
-{{% staticref "uploads/traore_dantec_partir_raconter.mp3" %}}{{% /staticref %}}
-
 ## À pro­pos de la carte
 
 ![](albums/carnet/travaux/dak5_small.png)
