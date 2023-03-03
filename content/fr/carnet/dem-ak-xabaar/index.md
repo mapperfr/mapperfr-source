@@ -3,14 +3,7 @@ title: “Dem Ak Xabaar” — Partir et raconter
 author: Jérémy Garniaux
 type: post
 date: 2013-05-01T08:00:19+00:00
-url: /?p=5
-enclosure:
-  - |
-    |
-        https://www.mapper.fr/site/wp-content/uploads/2020/06/taore_dantec_partir_raconter.mp3
-        51268800
-        audio/mpeg
-        
+draft: true     
 categories:
   - travaux
 tags:
