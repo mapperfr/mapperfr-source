@@ -15,7 +15,8 @@ tags:
 
 ![](albums/carnet/travaux/DSC_8377_small.jpg)
 
-Expo­si­tion pho­tographique et car­tographique présen­tée à l’Al­ham­bra ciné­mar­seille du 6 au 30 avril 2011, dans le cadre de “Istan­bul à facettes”, événe­ment organ­isé par l’Al­ham­bra et Radio Grenouille  
+Expo­si­tion pho­tographique et car­tographique présen­tée à l’Al­ham­bra ciné­mar­seille du 6 au 30 avril 2011, dans le cadre de “Istan­bul à facettes”, événe­ment organ­isé par l’Al­ham­bra et Radio Grenouille. 
+
 Pho­togra­phies : Yohanne Lam­oulère, avec Rémi Ver­braeken  
 Textes : Jérémy Gar­ni­aux  
 Cartes et ani­ma­tion : Noé Guiraud
