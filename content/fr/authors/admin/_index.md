@@ -52,16 +52,15 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jeremygarniaux
-- icon: rss
-- icon_pack: fas
-- link: https://mapper.fr/carnet/index.xml
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cv_garniaux_2022.pdf
+  link: uploads/cv_garniaux_2022.pdf- 
+- icon: rss
+  icon_pack: fas
+  link: https://mapper.fr/carnet/index.xml
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jeremy@mapper.fr"
