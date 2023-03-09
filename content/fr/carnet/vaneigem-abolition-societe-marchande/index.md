@@ -33,5 +33,5 @@ Utopiste, Vaneigem ? Ayant pressenti l’accusation, sa réponse est à l’imag
 
 Un ouvrage salutaire, résultat de l’évolution d’une pensée libre et rare.
 
--- Raoul Vaneigem, _Pour l'abolition de la société marchande, pour une société vivante_, Rivages poche / Petite bibliothèque, 2004
+-- Raoul Vaneigem, _Pour l'abolition de la société marchande, pour une société vivante_, Rivages poche / Petite bibliothèque, 2004  
 _Chronique publiée initialement sur acontresens.com_
