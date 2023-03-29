@@ -11,7 +11,6 @@ tags:
   - geomob
   - mapstodon
   - open source
-
 ---
 
 The hosts of the famous and prolific [Geomob podcast](https://thegeomob.com) were kind enough to invite me for a conversation about [mapstodon.space](https://mapstodon.space) (see [this post](https://mapper.fr/carnet/introducing-mapstodon/) for more info on the Mastodon server for mapmakers).
