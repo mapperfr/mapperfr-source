@@ -3,7 +3,6 @@ title: The mechanics canal
 author: Jérémy Garniaux
 type: post
 date: 2020-04-28T21:08:01+00:00
-excerpt: 
 draft: false
 categories:
   - dérives

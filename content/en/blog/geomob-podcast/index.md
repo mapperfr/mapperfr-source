@@ -3,7 +3,7 @@ title: Mapstodon in the Geomob podcast
 author: Jérémy Garniaux
 type: post
 draft: false
-date: 2023-03-29 T10:07:07+00:00
+date: 2023-03-29T10:07:07+00:00
 categories:
   - carnet
 tags:
