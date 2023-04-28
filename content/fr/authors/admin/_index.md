@@ -57,7 +57,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cv_garniaux_2022.pdf- 
+  link: uploads/cv_garniaux_2022.pdf
 - icon: rss
   icon_pack: fas
   link: https://mapper.fr/carnet/index.xml
