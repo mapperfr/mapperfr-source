@@ -24,4 +24,4 @@ Au fil des ans, il me semble que l'apport le plus durable de ma lecture de Kerou
 
 ![](albums/carnet/snyder/snyder3.jpg)
 
-C'était aussi - comme un avant-goût - une invitation à lire Kenneth White, enfin et aussi - il est dans ma pile à lire depuis bien trop longtemps ([Tsundoku](https://fr.wikipedia.org/wiki/Tsundoku), mon amour).
+C'était aussi une invitation à lire Kenneth White, enfin et aussi - il est dans ma pile à lire depuis bien trop longtemps ([Tsundoku](https://fr.wikipedia.org/wiki/Tsundoku), mon amour).
