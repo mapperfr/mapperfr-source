@@ -23,4 +23,4 @@ Over the years, it seems to me that the most lasting contribution of my reading 
 
 ![](albums/carnet/snyder/snyder3.jpg)
 
-It was also an invitation to read Kenneth White, finally and also - he's been in my to-read pile for far too long ([Tsundoku](https://fr.wikipedia.org/wiki/Tsundoku), my love).
+It was also an invitation to finally read Kenneth White - he's been in my to-read pile for far too long ([Tsundoku](https://fr.wikipedia.org/wiki/Tsundoku), my love).
