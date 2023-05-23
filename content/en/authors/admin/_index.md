@@ -61,6 +61,10 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
+- icon: rss
+  icon_pack: fas
+  link: https://mapper.fr/carnet/index.xml
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jeremy@mapper.fr"
 
