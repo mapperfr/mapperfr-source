@@ -69,8 +69,4 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Actuellement développeur pour la science ouverte en archéologie au [LAMPEA](https://lampea.cnrs.fr), à la [MMSH](https://mmsh.fr) d'Aix-en-Provence, j'enseigne en parallèle la cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier. Je suis également le [créateur](https://mapper.fr/carnet/introducing-mapstodon/) de [mapstodon.space](https://mapstodon.space), une instance Mastodon multilingue dédiée à la cartographie qui rassemble aujourd'hui environ un millier de personnes. 
-<!-- 
-D'une manière générale, j'aime mettre en oeuvre des approches créatives pour répondre à des questions complexes à la croisée de la science et de la société, avec un focus sur la dimension spatiale et à l'aide d'outils libres et de données ouvertes.  -->
-
-Je suis parfois disponible pour réaliser des prestations [autour de la cartographie et de l'open data](https://mapper.fr/carnet/ips-geolocalise/). [N'hésitez pas à me contacter](https://mapper.fr/#contact)!
+Je suis développeur pour la science ouverte en archéologie au [LAMPEA](https://lampea.cnrs.fr), à la [MMSH](https://mmsh.fr) d'Aix-en-Provence, et enseignant en cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier. Je suis également le [créateur](https://mapper.fr/carnet/introducing-mapstodon/) de [mapstodon.space](https://mapstodon.space), une instance Mastodon multilingue dédiée à la cartographie qui rassemble aujourd'hui environ un millier de personnes. Je suis disponible pour réaliser des prestations [autour de la cartographie et de l'open data](https://mapper.fr/carnet/ips-geolocalise/). [N'hésitez pas à me contacter](https://mapper.fr/#contact)!
