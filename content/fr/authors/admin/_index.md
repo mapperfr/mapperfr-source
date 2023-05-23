@@ -6,7 +6,7 @@ title: Jérémy Garniaux
 superuser: true
 
 # Role/position/tagline
-role: Développeur pour la science ouverte en archéologie
+role: Cartographe & développeur
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.univ-amu.fr 
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Cartographe & développeur
+# bio: 
 
 # Interests to show in About widget
 interests:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master Géographie - Mondialisation et développement
+  - course: Master Sciences Géographiquese
     institution: Aix-Marseille Université
     year: 2009
   # - course: Licence de géographie
@@ -69,6 +69,8 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Cartographe et développeur, je travaille actuellement au sein du [LAMPEA](https://lampea.cnrs.fr), à la [MMSH](https://mmsh.fr) d'Aix-en-Provence, au développement d'outils et de workflows pour la science ouverte en archéologie. J'enseigne en parallèle la cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier. Je suis également le [créateur](https://mapper.fr/carnet/introducing-mapstodon/) de [mapstodon.space](https://mapstodon.space), une instance Mastodon dédiée à la cartographie qui rassemble aujourd'hui environ un millier de personnes. 
+Actuellement développeur pour la science ouverte en archéologie au [LAMPEA](https://lampea.cnrs.fr), à la [MMSH](https://mmsh.fr) d'Aix-en-Provence, j'enseigne en parallèle la cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier. Je suis également le [créateur](https://mapper.fr/carnet/introducing-mapstodon/) de [mapstodon.space](https://mapstodon.space), une instance Mastodon multilingue dédiée à la cartographie qui rassemble aujourd'hui environ un millier de personnes. 
+<!-- 
+D'une manière générale, j'aime mettre en oeuvre des approches créatives pour répondre à des questions complexes à la croisée de la science et de la société, avec un focus sur la dimension spatiale et à l'aide d'outils libres et de données ouvertes.  -->
 
-D'une manière générale, j'aime mettre en oeuvre des approches créatives pour répondre à des questions complexes à la croisée de la science et de la société, avec un focus sur la dimension spatiale et à l'aide d'outils libres et de données ouvertes. Je suis parfois disponible pour réaliser des prestations [autour de la cartographie et de l'open data](https://mapper.fr/carnet/ips-geolocalise/). [N'hésitez pas à me contacter](https://mapper.fr/#contact)!
+Je suis parfois disponible pour réaliser des prestations [autour de la cartographie et de l'open data](https://mapper.fr/carnet/ips-geolocalise/). [N'hésitez pas à me contacter](https://mapper.fr/#contact)!
