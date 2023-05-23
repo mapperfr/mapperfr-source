@@ -6,7 +6,7 @@ title: Jérémy Garniaux
 superuser: true
 
 # Role/position/tagline
-role: Développeur pour la science ouverte en archéologie
+# role: Développeur pour la science ouverte en archéologie
 
 # Organizations/Affiliations to show in About widget
 organizations:
