@@ -6,7 +6,7 @@ title: Jérémy Garniaux
 superuser: true
 
 # Role/position/tagline
-# role: Développeur pour la science ouverte en archéologie
+role: Développeur pour la science ouverte en archéologie
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.univ-amu.fr 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cartographe & développeur
+# bio: Cartographe & développeur
 
 # Interests to show in About widget
 interests:
