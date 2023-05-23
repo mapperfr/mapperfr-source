@@ -68,7 +68,7 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-I'm currently working as a developer for the open science un archaeology at the [LAMPEA](https://lampea.cnrs.fr) laboratory ([MMSH](https://mmsh.fr), Aix-en-Provence, France). I also teach cartography for [Master's students in urbanism](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) at Paul-Valéry University in Montpellier. Besides these official affiliations, I [deployed](https://mapper.fr/carnet/introducing-mapstodon/) and administer [mapstodon.space](https://mapstodon.space), a multilingual Mastodon instance dedicated to cartography and geospatial that gathers about a thousand carto geeks (and growing!). 
+I'm currently working as a developer for the open science in archaeology at the [LAMPEA](https://lampea.cnrs.fr) laboratory ([MMSH](https://mmsh.fr), Aix-en-Provence, France). I also teach cartography for [Master's students in urbanism](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) at Paul-Valéry University in Montpellier. Besides these official affiliations, I [deployed](https://mapper.fr/carnet/introducing-mapstodon/) and administer [mapstodon.space](https://mapstodon.space), a multilingual Mastodon instance dedicated to cartography and geospatial that gathers about a thousand carto geeks (and growing!). 
 
 <!-- Generally speaking, I like to implement creative approaches to answer complex questions at the crossroads of science and society, with a focus on the spatial dimension and using open source tools and open data.  -->
 
