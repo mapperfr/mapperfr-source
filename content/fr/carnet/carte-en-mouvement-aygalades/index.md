@@ -17,7 +17,7 @@ tags:
 
 Carte réal­isée lors d’une rési­dence à la [Cité des arts de la rue](http://www.lacitedesartsdelarue.net) et pub­liée dans un numéro spé­cial de _la Mar­seil­laise_ sur le pat­ri­moine dans les quartiers nord, en sep­tem­bre 2011, à l’oc­ca­sion des journées européennes du patrimoine.
 
-![](albums/carnet/aygalades/pages2_3.png)
+![](albums/carnet/aygalades/pages2-3.png)
 
 ![](albums/carnet/aygalades/DSC_0323.jpg)
 
