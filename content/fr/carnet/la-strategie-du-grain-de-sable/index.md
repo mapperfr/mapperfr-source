@@ -1,10 +1,9 @@
 ---
-title: 'La stratégie du grain de&nbsp;sable'
+title: La stratégie du grain de sable
 author: Jérémy Garniaux
 type: post
 date: 2013-05-01T08:00:46+00:00
-excerpt: "La stratégie du grain de sable est à la fois une exposition et un recueil de photographies de Patxi Beltzaiz sur la Communauté de Paix de San José de Apartadó, au nord-ouest de la Colombie, accompagné de récits de Traba et édité par L'atinoir en bilingue français / castillan."
-url: /?p=267
+excerpt: "La stratégie du grain de sable est à la fois une exposition et un recueil de photographies de Patxi Beltzaiz sur la Communauté de Paix de San José de Apartadó, au nord-ouest de la Colombie, accompagné de récits de Traba et édité par L'atinoir en bilingue français/ castillan."
 draft: true
 categories:
   - travaux
@@ -14,17 +13,12 @@ tags:
   - pacifisme
 
 ---
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><a href="https://www.mapper.fr/site/wp-content/uploads/2013/05/sgds-couv-10nov.jpg"><img src="https://www.mapper.fr/site/wp-content/uploads/2013/05/sgds-couv-10nov-1024x790.jpg" alt class="wp-image-1297" width="350" srcset="https://mapper.fr/wp-content/uploads/2013/05/sgds-couv-10nov-1024x790.jpg 1024w, https://mapper.fr/wp-content/uploads/2013/05/sgds-couv-10nov-300x231.jpg 300w, https://mapper.fr/wp-content/uploads/2013/05/sgds-couv-10nov-150x116.jpg 150w, https://mapper.fr/wp-content/uploads/2013/05/sgds-couv-10nov-768x592.jpg 768w, https://mapper.fr/wp-content/uploads/2013/05/sgds-couv-10nov-1200x926.jpg 1200w, https://mapper.fr/wp-content/uploads/2013/05/sgds-couv-10nov.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
-</div>
+![](albums/carnet/sgds-couv-10nov.jpg)
 
-<blockquote class="wp-block-quote">
-  <p>
-    Une expéri­ence de non-vio­lence en zone de guerre. Au cœur de la région d’Urbaba en Colom­bie, une terre fer­tile, riche en ressources naturelles est l’un des cen­tres névral­giques de la gueril­la. Une com­mu­nauté prise au piège. Sous les balles des para­mil­i­taires, de l’armée nationale et des FARC, des hommes et des femmes con­tin­u­ent de vivre. Ils se déclar­ent Com­mu­nauté de Paix le 23 mars 1997. Ces paysans déplacés par les con­flits refusent caté­gorique­ment de quit­ter une nou­velle fois leurs ter­res. Ils exi­gent le respect pour la vie, la dig­nité en tant qu’être humain. Cette expéri­ence col­lec­tive de non-vio­lence en zone de guerre a fait naître une édu­ca­tion alter­na­tive et des échanges économiques sol­idaires. Après 15 d’existence, plus de 170 morts pour une pop­u­la­tion de 1200 per­son­nes, la Com­mu­nauté de Paix con­tin­ue d’avancer dans ce proces­sus de résis­tance civile, paci­fique et politique.
-  </p>
-  
-  <cite><a href="http://lastrategiedugraindesable.wordpress.com/">La stratégie du grain de sable</a>, édi­tions de l’Atinoir</cite>
-</blockquote>
+
+> Une expéri­ence de non-vio­lence en zone de guerre. Au cœur de la région d’Urbaba en Colom­bie, une terre fer­tile, riche en ressources naturelles est l’un des cen­tres névral­giques de la gueril­la. Une com­mu­nauté prise au piège. Sous les balles des para­mil­i­taires, de l’armée nationale et des FARC, des hommes et des femmes con­tin­u­ent de vivre. Ils se déclar­ent Com­mu­nauté de Paix le 23 mars 1997. Ces paysans déplacés par les con­flits refusent caté­gorique­ment de quit­ter une nou­velle fois leurs ter­res. Ils exi­gent le respect pour la vie, la dig­nité en tant qu’être humain. Cette expéri­ence col­lec­tive de non-vio­lence en zone de guerre a fait naître une édu­ca­tion alter­na­tive et des échanges économiques sol­idaires. Après 15 d’existence, plus de 170 morts pour une pop­u­la­tion de 1200 per­son­nes, la Com­mu­nauté de Paix con­tin­ue d’avancer dans ce proces­sus de résis­tance civile, paci­fique et politique.
+>
+> -- <cite>[La stratégie du grain de sable](http://lastrategiedugraindesable.wordpress.com), édi­tions de l’Atinoir</cite>
 
 La com­mande orig­inelle — une carte de local­i­sa­tion per­me­t­tant de situer la com­mu­nauté — a vite gag­né en com­plex­ité au vu des enjeux géopoli­tiques de la région. J’ai finale­ment pro­posé deux cartes com­plé­men­taires, à deux échelles différentes.
 
