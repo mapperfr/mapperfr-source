@@ -37,7 +37,7 @@ Enthousiasmé par Mastodon, j'avais créé un premier compte il y a un certain t
 
 Comment encourager, à mon niveau, cette joyeuse migration vers la Fédiverse et Mastodon? 
 
-![](albums/carnet/mapstodon/accueil.png)
+![](albums/carnet/mapstodon/mapstodon1.png)
 
 J'ai choisi de passer du côté des admins en mettant à disposition un serveur spécialement destiné à la communauté des cartographes, développeuses géospatiales et autres amatrices de cartes. [Mapstodon.space](https://mapstodon.space) a ouvert ses portes le 5 novembre, porté par un jeu de mots que l'on pouvait difficilement laisser passer, et une série d'émojis tous plus cartos les uns que les autres - QGIS, COG, ArcGIS, GDAL, Google Earth ou encore GRASS GIS - la liste continue de grandir!
 
