@@ -25,6 +25,6 @@ Julien Grav­elle, _Nitassi­nan_, édi­tions Wild­pro­ject, 2012.
 >
 > Ces his­toires cru­elles et puis­santes, obscuré­ment reliées, for­ment la grande épopée d’une terre, le vaste roman d’un lieu.
 
---> [L’ou­vrage sur le site de l’éditeur](https://wildproject.org/livres/nitassinan)
+- [L’ou­vrage sur le site de l’éditeur](https://wildproject.org/livres/nitassinan)
 
---> [Nametau innu](http://www.nametauinnu.ca/fr/culture/territoire), quelques élé­ments sur le nitassinan
+- [Nametau innu](http://www.nametauinnu.ca/fr/culture/territoire), quelques élé­ments sur le nitassinan
