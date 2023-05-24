@@ -20,7 +20,7 @@ J'y ai retrouvé avec plaisir ce qui m'avait frappé en premier lieu chez Snyder
 
 ![](albums/carnet/snyder/snyder2.jpg)
 
-Au fil des ans, il me semble que l'apport le plus durable de ma lecture de Kerouac - qui avait beaucoup marqué l'adolescent de campagne que j'étais - c'est la découverte de Snyder et de son oeuvre. J'y reviens sans cesse, elle m'a bien plus forgé que je ne l'aurais pensé. L'entêtement à raconter ce que nous devons au _milieu_ et ce qui fait notre humanité, à décrire le fil ténu mais réel qui relie discipline et spontanéité, voilà deux des facteurs qui me semblent avoir permis l'éclosion de l'oeuvre de Gary Snyder. Il y en a sans doute d'autres et j'ai encore beaucoup à lire. Cette court biographie poétique a certainement rafraîchi mon intérêt. 
+Au fil des ans, il me semble que l'apport le plus durable de ma lecture de Kerouac - qui avait beaucoup marqué l'adolescent de campagne que j'étais - c'est la découverte de Snyder et de son oeuvre. J'y reviens sans cesse, elle m'a bien plus forgé que je ne l'aurais pensé. L'entêtement à raconter ce que nous devons au _milieu_ et ce qui fait notre humanité, à décrire le fil ténu mais réel qui relie discipline et spontanéité, voilà deux des facteurs qui me semblent avoir permis l'éclosion de l'oeuvre de Gary Snyder. Il y en a sans doute d'autres et j'ai encore beaucoup à lire. Cette courte biographie poétique a certainement rafraîchi mon intérêt. 
 
 ![](albums/carnet/snyder/snyder3.jpg)
 
