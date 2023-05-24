@@ -2,7 +2,7 @@
 title: Nitassinan
 author: Jérémy Garniaux
 type: post
-date: 2013-05-01T06:00:30+00:00
+date: 2012-11-01T06:00:30+00:00
 categories:
   - travaux
 tags:
