@@ -1,12 +1,11 @@
 ---
-title: "[disque] Lofofora - Peuh"
+title: Lofofora - Peuh
 author: Jérémy Garniaux
 type: post
 date: 2002-11-28T12:20:27+00:00
 draft: false
 categories:
-  - carnet
-  - digressions
+  - à l'écoute
 tags:
   - musique
   - chronique
@@ -15,8 +14,9 @@ tags:
 
 ---
 
-"Nous ne serons jamais des stars, plutôt sucer un chien. Nous n'avons aucun respect pour le rapport qui relie l'idole au fan, le maître à l'esclave, le dictateur au peuple, ma main sur ta gueule."
-[ancienne présentation de Lofofora sur le site de Sriracha]
+> "Nous ne serons jamais des stars. Nous n'avons aucun respect pour le rapport qui relie l'idole au fan, le maître à l'esclave, le dictateur au peuple, ma main sur ta gueule."
+>
+> -- présentation de Lofofora sur le site de Sriracha
 
 Voilà qui est clair, précis, intelligent et sans concessions : un peu à l'image du groupe, en somme. Car Lofofora est un de ces (trop) rares groupes à ignorer les termes "consensus", "opportunisme" et "compromis"... Et "Peuh !", second album sorti en 1996, vient magistralement confirmer cette ligne de conduite.
 

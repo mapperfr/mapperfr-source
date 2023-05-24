@@ -6,10 +6,12 @@ date: 2010-03-08T21:07:37+00:00
 draft: false
 categories:
   - travaux
+  - à l'écoute
 tags:
   - ensembles résidentiels fermés
   - marseille
   - radio grenouille
+  - podcast
 ---
 
 ![](albums/carnet/P7090412.jpg)

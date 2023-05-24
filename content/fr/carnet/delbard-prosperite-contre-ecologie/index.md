@@ -1,12 +1,11 @@
 ---
-title: "[livre] Olivier Delbard - Prospérité contre écologie"
+title: Olivier Delbard - Prospérité contre écologie
 author: Jérémy Garniaux
 type: post
 date: 2006-06-01T12:20:27+00:00
 draft: false
 categories:
-  - carnet
-  - digressions
+  - lectures
 tags:
   - lecture
   - chronique

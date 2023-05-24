@@ -9,6 +9,7 @@ categories:
   - carnet
 tags:
   - à bicyclette
+  - éléphants
 ---
 
 J’ai croisé Michel Condeminas au niveau de Montgiscard. Ça faisait au moins deux écluses que je roulais avec Maxime, un gamin du coin vif et sociable. Maxime m’avait rat­trapé avec son VTT pour me pos­er des mon­tagnes de ques­tions sur le vélo couché, ma des­ti­na­tion, les voy­ages à vélo ou la vie en général, et me racon­ter à son tour la sor­tie de cyclo­tourisme en Bre­tagne avec sa classe l’an passé. On venait de tomber d’accord pour dire que les voy­ages en groupe c’est bien mais quand il y a trop de monde c’est chi­ant parce qu’il faut tou­jours atten­dre ceux qui traî­nent, on en était là quand on est tombés sur Con­dem­i­nas. Je dis comme ça parce qu’à l’époque les hommes s’appelaient par leur nom de famille, et c’est comme ça qu’il s’est d’abord présen­té. « Con­dem­i­nas. » (Un temps, et voy­ant que j’attends la suite) « Michel Con­dem­i­nas. C’est cata­lan. »

@@ -5,7 +5,7 @@ type: post
 date: 2009-12-09T13:15:11+00:00
 draft: false
 categories:
-  - travaux
+  - tutos
 tags:
   - JOSM
   - openstreetmap

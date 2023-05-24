@@ -1,5 +1,5 @@
 ---
-title: 'Avatar ou l’apologie des territoires virtuels'
+title: Avatar ou l’apologie des territoires virtuels
 author: Jérémy Garniaux
 type: post
 date: 2010-01-09T14:20:27+00:00
@@ -9,6 +9,7 @@ categories:
 tags:
   - avatar
   - territoires
+  - cinéma
 
 ---
 [Lu sur n+1, une analyse intéres­sante d’A­vatar de James Cameron][1] (reprise du blog de Caleb Crain, mys­térieuse­ment nom­mé [Steam­boats are Ruin­ing Every­thing][2]). Selon l’au­teur, der­rière le mes­sage anti-impéri­al­iste que beau­coup auront relevé (les Na’vi finis­sent par “gag­n­er” face aux humains belliqueux chez qui on pour­rait recon­naitre cer­tains traits états-uniens), le véri­ta­ble but de Cameron avec Avatar est de 

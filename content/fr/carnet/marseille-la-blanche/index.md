@@ -13,4 +13,4 @@ tags:
 
 C’est unanime, “on n’avait pas vu ça depuis 1987 !” Mar­seille peut emprunter son surnom à Alger, pour l’oc­ca­sion… 
 
-![](marseille_la_blanche.jpg)
+![](albums/carnet/marseille_la_blanche/marseille_la_blanche.jpg)

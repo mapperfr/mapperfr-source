@@ -1,5 +1,5 @@
 ---
-title: 'Cartographie des luttes dans le monde en 2011'
+title: Cartographie des luttes dans le monde en 2011
 author: Jérémy Garniaux
 type: post
 date: 2012-02-14T11:17:26+00:00

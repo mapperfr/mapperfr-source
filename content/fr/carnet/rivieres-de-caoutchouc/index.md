@@ -6,6 +6,7 @@ date: 2020-10-17T08:53:49+00:00
 draft: false
 categories:
   - carnet
+  - lectures
 tags:
   - fleuves
   - géographie

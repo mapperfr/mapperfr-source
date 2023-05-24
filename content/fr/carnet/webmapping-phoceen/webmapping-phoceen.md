@@ -5,7 +5,7 @@ type: post
 date: 2009-02-07T14:11:02+00:00
 draft: true
 categories:
-  - travaux
+  - tutos
 tags:
   - marseille
   - paca

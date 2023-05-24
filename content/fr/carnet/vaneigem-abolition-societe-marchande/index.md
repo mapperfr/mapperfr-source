@@ -1,12 +1,11 @@
 ---
-title: "[livre] Raoul Vaneigem - Pour l'abolition de la société marchande, pour une société vivante"
+title: Raoul Vaneigem - Pour l'abolition de la société marchande, pour une société vivante
 author: Jérémy Garniaux
 type: post
 date: 2005-02-28T12:20:27+00:00
 draft: false
 categories:
-  - carnet
-  - digressions
+  - lectures
 tags:
   - lecture
   - chronique

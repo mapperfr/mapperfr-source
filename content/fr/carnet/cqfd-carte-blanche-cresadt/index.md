@@ -5,7 +5,7 @@ type: post
 date: 2012-02-09T10:38:44+00:00
 draft: false
 categories:
-  - cresadt
+  - travaux
 tags:
   - cresadt
   - presse

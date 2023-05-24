@@ -1,12 +1,11 @@
 ---
-title: "[livre] François-Xavier Verschave - La Françafrique"
+title: François-Xavier Verschave - La Françafrique
 author: Jérémy Garniaux
 type: post
 date: 2004-04-23T12:20:27+00:00
 draft: false
 categories:
-  - carnet
-  - digressions
+  - lectures
 tags:
   - lecture
   - chronique

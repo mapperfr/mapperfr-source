@@ -1,5 +1,5 @@
 ---
-title: “Dem Ak Xabaar” — Partir et raconter
+title: Dem Ak Xabaar — Partir et raconter
 author: Jérémy Garniaux
 type: post
 date: 2013-01-12T08:00:19+00:00
@@ -11,6 +11,7 @@ tags:
   - europe
   - migrations
   - sénégal
+  - podcast
 
 ---
 

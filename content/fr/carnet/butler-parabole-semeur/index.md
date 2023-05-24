@@ -1,14 +1,12 @@
 ---
-title: "[livre] Octavia E. Butler - la parabole du semeur"
+title: Octavia E. Butler - la parabole du semeur
 author: Jérémy Garniaux
 type: post
 date: 2007-01-04T12:20:27+00:00
 draft: false
 categories:
-  - carnet
-  - digressions
+  - lectures
 tags:
-  - lecture
   - chronique
   - Etat-Unis
   - science-fiction

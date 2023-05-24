@@ -5,7 +5,7 @@ type: post
 date: 2010-01-11T13:11:24+00:00
 draft: false
 categories:
-  - travaux
+  - tutos
 tags:
   - ITO
   - openstreetmap

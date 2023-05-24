@@ -5,7 +5,7 @@ type: post
 draft: true
 date: 2009-10-28T14:31:07+00:00
 categories:
-  - carnet
+  - tuto
 tags:
   - flickr
   - openstreetmap

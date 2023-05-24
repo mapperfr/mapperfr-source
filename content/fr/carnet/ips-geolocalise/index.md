@@ -1,10 +1,10 @@
 ---
-title: Cartographie de l'Indice de Position Sociale
+title: Cartographie de l'indice de position sociale
 author: Jérémy Garniaux
 type: post
 date: 2022-12-02T14:04:19+00:00
 categories:
-  - cartes
+  - travaux
 tags:
   - france
   - ips

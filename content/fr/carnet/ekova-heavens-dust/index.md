@@ -1,12 +1,11 @@
 ---
-title: "[disque] Ekova - Heaven's Dust"
+title: Ekova - Heaven's Dust
 author: Jérémy Garniaux
 type: post
 date: 2002-12-25T12:20:27+00:00
 draft: false
 categories:
-  - carnet
-  - digressions
+  - à l'écoute
 tags:
   - musique
   - chronique

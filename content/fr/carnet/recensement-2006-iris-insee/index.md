@@ -5,7 +5,7 @@ type: post
 date: 2010-02-21T14:49:21+00:00
 draft: false
 categories:
-  - carnet
+  - tutos
 tags:
   - contours iris
   - ign

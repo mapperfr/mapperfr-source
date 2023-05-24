@@ -1,12 +1,11 @@
 ---
-title: "[disque] Lofofora - Le fond et la forme"
+title: Lofofora - Le fond et la forme
 author: Jérémy Garniaux
 type: post
 date: 2005-01-10T12:20:27+00:00
 draft: false
 categories:
-  - carnet
-  - digressions
+  - à l'écoute
 tags:
   - musique
   - chronique

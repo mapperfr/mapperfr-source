@@ -1,12 +1,11 @@
 ---
-title: "[disque] Saul Williams - Saul Williams"
+title: Saul Williams - Saul Williams
 author: Jérémy Garniaux
 type: post
 date: 2005-01-10T12:20:27+00:00
 draft: false
 categories:
-  - carnet
-  - digressions
+  - à l'écoute
 tags:
   - musique
   - chronique
@@ -20,7 +19,7 @@ A l’époque de la sortie d’Amethyst Rock Star, Saul Williams avait fait part
 
 Sans doute l’une des raisons pour lesquelles ce Saul Williams est éponyme. L’auteur se sent-il aujourd’hui plus proche de l’univers, plus universel qu’avec le – néanmoins excellent – précédent, qui portait la marque d’un autre ? Cette fois-ci, Saul Williams se fait non seulement auteur interprète, mais également producteur. Et plus encore, musicien : en plein show, voilà Williams qui saisit une guitare, fort de l’assurance de celui qui trace son chemin sans plus se soucier des perturbations ambiantes… Fascinant d’assister à la construction d’une telle personnalité, dense, complexe et pourtant limpide.
 
-Paradoxalement, ce petit dernier se veut plus léger. Rompant avec l’aîné, le voilà qui propose des chansons, au sens strict du terme, moins métaphysiques, plus accrochées à la réalité. Les codes n’ont pas disparu, mais se mettent au service d’une vision qui évolue en se rapprochant du travail de terrain. Et la bride n’est pas complètement nouée non plus : l’ensemble est parsemé d’étoiles surréalistes, on perçoit une fois encore les briques d’une vision nouvelle, qui s’agencent pour monter des murs en béton surarmé. Fureur sereine de celui qui sait que le génie, c’est l’invention du cliché…
+Paradoxalement, ce petit dernier se veut plus léger. Rompant avec l’aîné, le voilà qui propose des chansons, au sens strict du terme, moins métaphysiques, plus accrochées à la réalité. Les codes n’ont pas disparu, mais se mettent au service d’une vision qui évolue en se rapprochant du travail de terrain. Et la bride n’est pas complètement nouée non plus : l’ensemble est parsemé d’étoiles surréalistes, on perçoit une fois encore les briques d’une vision nouvelle, qui s’agencent pour monter des murs en béton surarmé. Fureur sereine de celui qui sait que le génie, c’est l’invention du cliché.
 
 Ouverture sur une collaboration avec Serj Tankian, chanteur de System Of A Down qui prend ici le piano. Les deux hommes sont définitivement du même monde, un monde fait de recherche, de conscience, de combat. Comme du reste Zach de la Rocha, ex-figure de Rage Against The Machine, que l’on retrouve (trop peu) sur un mystérieux « Act III Scene 2 (Shakespeare) »… On pense alors à la création, sous nos yeux, d’un réseau du troisième type. Des extraterrestres en terre bushienne. Mais justement : voilà poindre à l’horizon les armées de la contre-culture. The countless unnamed. The no ones, the nobodies, the last in line. Ceux-là mêmes auxquels la République avait noué un bâillon en Téflon autour de la bouche, trop effrayée par la force de leurs mots. Mais la pression était trop forte, le bâillon a fini par lâcher comme un vulgaire bout de chiffon. As a great man once said, there is nothing more powerful than an idea whose time has come.
 
