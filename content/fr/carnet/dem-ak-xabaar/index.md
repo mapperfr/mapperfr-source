@@ -2,7 +2,7 @@
 title: “Dem Ak Xabaar” — Partir et raconter
 author: Jérémy Garniaux
 type: post
-date: 2013-05-01T08:00:19+00:00
+date: 2013-01-12T08:00:19+00:00
 draft: false     
 categories:
   - travaux
