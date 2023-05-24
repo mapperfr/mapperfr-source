@@ -2,7 +2,7 @@
 title: Belle, peut-être pas, mais ô combien charmante
 author: Jérémy Garniaux
 type: post
-date: 2013-05-01T08:00:01+00:00
+date: 2011-07-10T08:00:01+00:00
 categories:
   - travaux
 tags:
