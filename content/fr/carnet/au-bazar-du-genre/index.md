@@ -16,7 +16,7 @@ tags:
   - mucem
 
 ---
-L’ex­po­si­tion tem­po­raire “Au bazar du genre — féminin et mas­culin en Méditer­ranée” était vis­i­ble au [Mucem] du 7 juin 2013 au 6 jan­vi­er 2014. Extrait de la présentation:
+L’ex­po­si­tion tem­po­raire “Au bazar du genre — féminin et mas­culin en Méditer­ranée” était vis­i­ble au [Mucem](https://mucem.org) du 7 juin 2013 au 6 jan­vi­er 2014. Extrait de la présentation:
 
 > Selon le sexe reçu à la nais­sance, chaque indi­vidu se voit attribuer des rôles dif­férents dans la société: le genre désigne cette con­struc­tion sociale. En Méditer­ranée comme ailleurs, l’opposition entre mas­culin et féminin est large­ment fondée sur la dom­i­na­tion des hommes. (…) Pour­tant, aujourd’hui plus que jamais, cet ordre est remis en ques­tion. (…) Cette expo­si­tion évoque ces nou­velles aspi­ra­tions des indi­vidus, et les répons­es que leur appor­tent aujourd’hui les sociétés de la Méditerranée.
 
