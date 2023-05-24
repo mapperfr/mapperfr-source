@@ -23,6 +23,7 @@ education:
     institution: Aix-Marseille University
     year: 2009
 
+social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
