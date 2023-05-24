@@ -46,7 +46,7 @@ Il n’y a plus qu’à imprimer et à aller se balad­er… En plus de not­er 
 
 Voilà à quoi ressem­blait ma carte une fois re-scannée :
 
-[![Walking Paper 3](albums/carnet/walking_papers/walkingpapers3.jpg)
+![Walking Paper 3](albums/carnet/walking_papers/walkingpapers3.jpg)
 
 C’est surtout le quart nord-ouest de la zone que j’ai ren­seigné. Comme je dis plus haut, il s’ag­it d’un espace partagé par trois com­munes, espace dédié aux activ­ités ter­ti­aires et au rési­den­tiel. Dans la moitié sud de la carte, il existe en réal­ité un lotisse­ment assez impor­tant ; j’ai com­mencé à le dessin­er avant de me ravis­er, les faux angles droits des rues étant au-delà de mes capac­ités de “car­tographe à main lev­ée”. J’ai donc préféré atten­dre de con­sul­ter le cadas­tre pour inté­gr­er cette zone à OSM.
 
@@ -60,7 +60,7 @@ Une fois envoyée, la carte est recalée automa­tique­ment. Cette réin­té­
 
 Deux modes d’édi­tion sont pos­si­bles : l’un directe­ment dans Pot­latch, le sec­ond dans JOSM à l’aide d’un plu­g­in Walk­ing Papers (voir le wiki OSM pour des détails sur l’u­til­i­sa­tion des deux logi­ciels). Le choix de l’édi­teur ren­voie aux choix de cha­cun : Pot­latch — l’édi­teur en ligne — est plus facile d’usage, mais est assez gour­mand en ressources (il m’ar­rive de faire planter Fire­fox en édi­tant dans Pot­latch, avec 2 Go de RAM sur le PC…). Voilà à quoi ressem­ble Pot­latch si on l’ou­vre depuis la page “Scans” de Walk­ing Papers :
 
-[![Edition Potlatch](albums/carnet/walking_papers/potlatch.png)
+![Edition Potlatch](albums/carnet/walking_papers/potlatch.png)
 
 On voit que par-dessus la carte papi­er se super­posent les voies et nodes actuelle­ment présents dans OSM. C’est égale­ment le cas avec JOSM : pour pou­voir affich­er le Walk­ing Paper dans ce dernier, il faut installer le [plu­g­in Walk­ing Papers](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/WalkingPapers), qui aura besoin du numéro de la carte pour l’af­fich­er (ce numéro est lis­i­ble à la fin de l’URL de la page de la carte que l’on vient de ren­voy­er sur le site de WP). La super­po­si­tion de la carte de ter­rain et des élé­ments OSM présents dans la zone donne quelque chose comme ça :
 
