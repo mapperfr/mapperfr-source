@@ -56,7 +56,6 @@ education:
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
-
 - icon: rss
   icon_pack: fas
   link: https://mapper.fr/carnet/index.xml
