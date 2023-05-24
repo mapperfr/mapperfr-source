@@ -2,7 +2,7 @@
 title: Au bazar du genre
 author: Jérémy Garniaux
 type: post
-date: 2013-10-26T17:14:41+00:00
+date: 2014-02-15T17:14:41+00:00
 draft: false
 categories:
   - travaux
