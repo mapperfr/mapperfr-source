@@ -11,7 +11,6 @@ tags:
   - cartographie
   - volunteered geographic information
 ---
- 
 
 > En sep­tem­bre 2011, pen­dant les journées européennes du pat­ri­moine, nous avons demandé à plusieurs promeneurs de dessin­er des cartes du quarti­er des Aygalades. Sur ce plan, tous les éléménts de dessin à main lev­ée (bâti­ments, arbres, ruis­seaux…) vien­nent des cartes récoltées ce jour-là.
 
