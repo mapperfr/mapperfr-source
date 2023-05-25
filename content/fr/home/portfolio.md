@@ -1,13 +1,13 @@
 ---
-title: My page
+title: Portfolio
 type: landing
 
 sections:
   - block: portfolio
-    id: projects
+    id: travaux
     content:
-      title: Projects
-      subtitle: My subtitle
+      title: Travaux
+      subtitle: 
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
