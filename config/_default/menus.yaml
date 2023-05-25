@@ -13,9 +13,6 @@ main:
   - name: Parcours
     url: '#parcours'
     weight: 20
-  - name: Portfolio
-    url: '#portfolio'
-    weight: 1
   - name: Carnet
     url: '#carnet'
     weight: 30

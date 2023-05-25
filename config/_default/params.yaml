@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Mapper'
-    description: 'Site personnel de Jérémy Garniaux, géographe, cartographe et développeur.'
+    description: 'Site personnel de Jérémy Garniaux, cartographe et développeur.'
     twitter: 'mapperfr'
   analytics:
     google_analytics: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jérémy Garniaux // CC BY 2.0.'
+    notice: '© {year} Jérémy Garniaux - CC BY SA 2.0.'
     license:
       enable: false
       allow_derivatives: true
