@@ -10,6 +10,9 @@ main:
   - name: À propos
     url: '#apropos'
     weight: 10
+  - name: Porfolio
+    url: '#portfolio'
+    weight: 15
   - name: Parcours
     url: '#parcours'
     weight: 20
