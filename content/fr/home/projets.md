@@ -35,12 +35,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `filter_button` below.
   filter_button:
-    - name: All
+    - name: Tous
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Cartographie
+      tag: cartographie
+    - name: Print
+      tag: print
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0
