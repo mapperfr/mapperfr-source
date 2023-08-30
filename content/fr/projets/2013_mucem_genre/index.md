@@ -1,5 +1,5 @@
 ---
-title: "Au bazar du genre"
+title: Au bazar du genre
 summary: "Quatre cartes autour de la thématique du genre en Méditerranée, conçue pour l'exposition "Au bazar du genre" au Mucem de juin 2013 à janvier 2014."
 tags:
   - genre
