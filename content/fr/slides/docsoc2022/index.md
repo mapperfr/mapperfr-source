@@ -4,7 +4,7 @@ summary: 'Données et métadonnées dans l’hybridation et le bricolage des pra
 authors: [Christophe Tufféry, Vincent Delvigne, Paul Fernandes, Jérémy Garniaux, Stéphane Renault]
 tags: [silex, webmapping, cartographie, crowdsourcing, ppgis]
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: "2022-06-23"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
