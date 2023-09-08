@@ -5,7 +5,7 @@ headless: true # This file represents a page section.
 weight: 30
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Projets
+title: Travaux
 subtitle: ''
 
 content:
@@ -13,7 +13,7 @@ content:
   filters:
     # Folders to display content from
     folders:
-      - projets
+      - travaux
     # Uncomment below to only show content with specific tags:
 #    tags:
 #      - Machine Learning
@@ -39,8 +39,8 @@ content:
       tag: '*'
     - name: Cartographie
       tag: cartographie
-    - name: Print
-      tag: print
+    - name: Art en espace public
+      tag: spectacle
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0
@@ -51,5 +51,5 @@ design:
   # Choose a listing view
   view: masonry
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
