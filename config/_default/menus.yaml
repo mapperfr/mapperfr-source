@@ -10,8 +10,8 @@ main:
   - name: À propos
     url: '#apropos'
     weight: 10
-  - name: Projets
-    url: '#projets'
+  - name: Travaux
+    url: '#travaux'
     weight: 15
   - name: Parcours
     url: '#parcours'
