@@ -8,5 +8,5 @@ tags:
   - culture
   - art
 date: 2013-06
-external_link: https://mapper.fr/carnet/echelle-1-feuilleton-cartographique/
+external_link: https://mapper.fr/blog/echelle-1-feuilleton-cartographique/
 ---

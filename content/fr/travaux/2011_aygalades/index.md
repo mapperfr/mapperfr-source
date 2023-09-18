@@ -7,5 +7,5 @@ tags:
   - cartographie
   - aygalades
 date: 2011-09
-external_link: https://mapper.fr/carnet/carte-en-mouvement-aygalades/
+external_link: https://mapper.fr/blog/carte-en-mouvement-aygalades/
 ---
