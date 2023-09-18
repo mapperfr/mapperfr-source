@@ -21,7 +21,7 @@ En témoigne cet *Icon*, où l'on retrouve Shawn Lane (guitariste virtuose, dipl
 
 L'album est composé en tout et pour tout de quatre morceaux, approchant les 25 minutes pour le plus long. Un choix qui permet aux musiciens de donner libre cours à leurs improvisations, entre les dialogues basse/guitare et les longues minutes de percussion vocale, ou les deux frères s'en donnent à cœur-joie dans d'impressionnants échanges.
 
-La fusion entre jazz-rock et musique carnatique (d'Inde du sud) n'étant pas à priori un chose aisée, on peut finalement rester ébloui devant une telle maîtrise, et devant l'impression de "sagesse" qui ressort de cette musique. Hellborg est un artiste précieux, et je ne saurais que trop vous conseiller d'y jeter une oreille, malgré la mauvaise distribution dont il fait l'objet...
+La fusion entre jazz-rock et musique carnatique (d'Inde du sud) n'étant pas à priori un chose aisée, on peut finalement rester ébloui devant une telle maîtrise, et devant l'impression de "sagesse" qui ressort de cette musique. Hellborg est un artiste précieux, et je ne saurais que trop vous conseiller d'y jeter une oreille, malgré la mauvaise distribution dont il fait l'objet.
 
 --- Jonas Hellborg, _Icon_, Bardo Records, 2003  
 _Chronique publiée initialement sur acontresens.com_
