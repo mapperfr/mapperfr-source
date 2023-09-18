@@ -12,9 +12,9 @@ fr:
 en:
   languageCode: en-us
   contentDir: content/en
-  title: Jérémy Garniaux
+  title: Mapper.Fr
   params:
-    description: Personal website of Jérémy Garniaux, geographer, mapmaker & developer
+    description: Personal website of Jérémy Garniaux, geographer, mapmaker & developer.
   menu:
     main:
     - name: About
@@ -23,8 +23,8 @@ en:
     - name: Resume
       url: '#resume'
       weight: 20
-    - name: Carnet
-      url: '#carnet'
+    - name: Blog
+      url: '#blog'
       weight: 30
     - name: Contact
       url: '#contact'
