@@ -6,5 +6,5 @@ tags:
   - print
   - cartographie
 date: 2013-06
-external_link: https://mapper.fr/2014-02/blog/au-bazar-du-genre/
+external_link: https://mapper.fr/blog/2014-02/au-bazar-du-genre/
 ---
