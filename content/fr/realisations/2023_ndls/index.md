@@ -1,6 +1,6 @@
 ---
 title: Nuit de la solidarité 2023
-summary: "Cartographie d'appui à la Nuit de la solidarité 2023. Atlas de 135 cartes couvrant le territoire de l'enquête. Commanditaire: Montpellier Méditerranée Métropole."
+summary: "Cartographie d'appui à la Nuit de la solidarité 2023. Atlas de 135 cartes couvrant le territoire de l'enquête, réalisées grâce à l'outil Atlas et les expressions dynamiques de QGIS. Commanditaire: Montpellier Méditerranée Métropole."
 tags:
   - atlas
   - qgis
