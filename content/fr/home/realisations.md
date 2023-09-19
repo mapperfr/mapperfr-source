@@ -5,7 +5,7 @@ headless: true # This file represents a page section.
 weight: 30
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Travaux
+title: Réalisations
 subtitle: ''
 
 content:
@@ -13,7 +13,7 @@ content:
   filters:
     # Folders to display content from
     folders:
-      - travaux
+      - realisations
     # Uncomment below to only show content with specific tags:
 #    tags:
 #      - Machine Learning
@@ -41,6 +41,8 @@ content:
       tag: cartographie
     - name: Art en espace public
       tag: spectacle
+    - name: 
+      tag: 
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0
