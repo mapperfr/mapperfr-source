@@ -6,6 +6,8 @@ tags:
   - carte en mouvement
   - cartographie
   - aygalades
+  - print
+  - presse
 date: 2011-09
 external_link: https://mapper.fr/blog/carte-en-mouvement-aygalades/
 ---
