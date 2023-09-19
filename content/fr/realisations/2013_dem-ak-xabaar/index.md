@@ -8,5 +8,5 @@ tags:
   - récit
   - migrations
 date: 2013-01
-external_link: https://mapper.fr/2013-01/blog/dem-ak-xabaar/ 
+external_link: https://mapper.fr/blog/2013-01/dem-ak-xabaar/
 ---
