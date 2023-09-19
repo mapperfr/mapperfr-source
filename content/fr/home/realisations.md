@@ -39,8 +39,8 @@ content:
       tag: '*'
     - name: web
       tag: web
-    - name: Art en espace public
-      tag: spectacle
+    - name: espace public
+      tag: espace-public
     - name: print
       tag: print
 
