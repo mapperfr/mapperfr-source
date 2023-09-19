@@ -11,7 +11,7 @@ tags:
   - géographie scolaire
 ---
 
-Il y a quelques mois, suite à une procédure lancée par le journaliste [Alexandre Léchenet](https://mastodon.social/@alphoenix), le tribunal administratif de Paris a imposé au ministère de l'Éducation nationale de publier en #opendata les données sur l'indice de position sociale (IPS) des écoles et collèges de France.
+Il y a quelques mois, suite à une procédure lancée par le journaliste [Alexandre Léchenet](https://mastodon.social/@alphoenix), le tribunal administratif de Paris a imposé au ministère de l'Éducation nationale de publier en opendata les données sur l'indice de position sociale (IPS) des écoles et collèges de France.
 
 [Selon Wikipédia](https://fr.wikipedia.org/wiki/Indice_de_position_sociale
 ), "L'IPS des élèves est un outil de mesure quantitatif de la situation sociale des élèves face aux apprentissages dans les établissements scolaires français. Plus l'indice est élevé, plus l'élève évolue dans un contexte familial favorable aux apprentissages. Cet indice est construit à partir des professions et catégories socioprofessionnelles (PCS) des représentants légaux des élèves."
