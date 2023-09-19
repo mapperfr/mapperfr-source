@@ -6,6 +6,7 @@ tags:
   - fediverse
   - communauté
   - réseau social
+  -
 date: 2022-11
 external_link: https://mapper.fr/blog/2022-12/introducing-mapstodon/
 ---
