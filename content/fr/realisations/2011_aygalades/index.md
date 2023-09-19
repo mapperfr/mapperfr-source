@@ -9,5 +9,5 @@ tags:
   - print
   - presse
 date: 2011-09
-external_link: https://mapper.fr/blog/carte-en-mouvement-aygalades/
+external_link: https://mapper.fr/blog/2013-04/carte-en-mouvement-aygalades/
 ---
