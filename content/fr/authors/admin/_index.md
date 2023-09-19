@@ -60,7 +60,7 @@ social:
   link: uploads/cv_garniaux_2022.pdf
 - icon: rss
   icon_pack: fas
-  link: https://mapper.fr/carnet/index.xml
+  link: https://mapper.fr/blog/index.xml
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jeremy@mapper.fr"
