@@ -22,7 +22,7 @@ J'ai commencé hier soir à jouer à [_Wilderplace_](https://wilderplace.place/)
 
 ![](albums/carnet/indiegames/wilderplace1.png)
 
-À l'opposé de _The Witcher_ et de ses grosses tartes à la crème parfois affligeantes (les rapports de genre, au hasard), _Firewatch_ ou _Wilderplace_ cultivent suggestion, délicatesse et poésie, tout en restant très prenants et distrayants. Bravo aux développeurs de ces jeux indépendants[^valve] de nous proposer des mondes ludiques moins binaires et plus étonnants!
+À l'opposé de _The Witcher_ et de ses grosses tartes à la crème parfois affligeantes (les rapports de genre, au hasard), _Firewatch_ ou _Wilderplace_ cultivent suggestion, délicatesse et poésie, tout en restant très prenants et distrayants. Merci aux développeurs de ces jeux indépendants[^valve] pour nous proposer des mondes ludiques moins binaires et plus étonnants!
 
 [^daron]: Je n'avais pas encore d'enfant à ce moment-là. Au rythme actuel, je devrais pouvoir reprendre ma partie vers 2042 ou 2043, quand la version 54 de _The Witcher_ sera sortie en Métavision<sup>tm</sup>. J'ai hâte.
 
