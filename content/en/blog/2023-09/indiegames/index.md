@@ -20,7 +20,7 @@ Last night I started playing [_Wilderplace_](https://wilderplace.place/), a sort
 
 > In Wilderplace, you are a shaman tasked with bringing balance to the once-idyllic Divine Garden. Explore the maze-like environment, harness magical artifacts, and uncover mysteries as you wrangle restless spirits and evade dangerous intruders.
 
-![](albums/carnet/indiegames/wilderplace1.jpg)
+![](albums/carnet/indiegames/wilderplace1.png)
 
 Unlike _The Witcher_ and its sometimes distressing approaches (gender relations, for example), _Firewatch_ or _Wilderplace_ cultivate suggestion, delicacy and poetry, while remaining highly engaging and entertaining. Shoutout to the developers of these independent games[^valve] for offering us playful worlds that are less binary and more surprising!
 

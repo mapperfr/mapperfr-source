@@ -20,11 +20,11 @@ J'ai commencé hier soir à jouer à [_Wilderplace_](https://wilderplace.place/)
 
 > Dans Wilderplace, vous incarnez un shaman chargé de rétablir l'équilibre du Jardin Divin, autrefois idyllique. Explorez l'environnement labyrinthique, exploitez des artefacts magiques et découvrez des mystères tout en luttant contre des esprits agités et en évitant de dangereux intrus.
 
-![](albums/carnet/indiegames/wilderplace1.jpg)
+![](albums/carnet/indiegames/wilderplace1.png)
 
 À l'opposé de _The Witcher_ et de ses grosses tartes à la crème parfois affligeantes (les rapports de genre, au hasard), _Firewatch_ ou _Wilderplace_ cultivent suggestion, délicatesse et poésie, tout en restant très prenants et distrayants. Bravo aux développeurs de ces jeux indépendants[^valve] de nous proposer des mondes ludiques moins binaires et plus étonnants!
 
-[^daron]: Je n'avais pas encore d'enfant à ce moment-là. Au rythme actuel, je devrais pouvoir reprendre ma partie vers 2042 ou 2043, quand la version 54 de _The Witcher_ sera sortie en Métavision^tm$ Métavision<sup>tm</sup>. J'ai hâte.
+[^daron]: Je n'avais pas encore d'enfant à ce moment-là. Au rythme actuel, je devrais pouvoir reprendre ma partie vers 2042 ou 2043, quand la version 54 de _The Witcher_ sera sortie en Métavision<sup>tm</sup>. J'ai hâte.
 
 [^zelda]: Il [arrive](https://fr.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom) que je [regrette](https://fr.wikipedia.org/wiki/Elden_Ring) un peu cette limitation technique. 
 
