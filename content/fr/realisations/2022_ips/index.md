@@ -10,4 +10,5 @@ tags:
   - géographie sociale
 date: 2022-12
 external_link: https://mapper.fr/blog/2022-12/ips/
+weight: 2
 ---
