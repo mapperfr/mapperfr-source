@@ -27,7 +27,7 @@ content:
 
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
-  sort_order: desc
+  sort_order: asc
   # sort_ascending: true
 
   # Filter toolbar (optional).
