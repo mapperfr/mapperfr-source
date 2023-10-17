@@ -12,7 +12,7 @@ fr:
 en:
   languageCode: en-us
   contentDir: content/en
-  title: Mapper.Fr
+  title: mapper.fr
   params:
     description: Personal website of Jérémy Garniaux, geographer, mapmaker & developer.
   menu:
