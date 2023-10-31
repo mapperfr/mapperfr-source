@@ -10,7 +10,7 @@ tags:
   - tutoriel
 ---
 
-Voici en quelques mots les étapes à suivre pour changer d'instance Mastodon - pour, par exemple, nous rejoindre sur https://mapstodon.space si la cartographie vous passionne! 
+Voici en quelques mots les étapes à suivre pour changer d'instance Mastodon - et, par exemple, nous rejoindre sur https://mapstodon.space!
 
 - Sur votre ancien compte, dans **Préférences** > **Import et export** > **Demander vos archives**. Après un moment d'attente, vous pourrez télécharger l'archive ZIP ainsi créée (vous pouvez aussi attendre de recevoir le mail qui vous indiquera que votre archive est prête). Vous l'utiliserez plus tard pour réimporter certaines données qui n'ont pas été transférées.
 
