@@ -41,17 +41,20 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jérémy Garniaux - CC BY SA 2.0.'
+    # notice: '© {year} Jérémy Garniaux - [cc by nc sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).'
+    notice: '© {year} Jérémy Garniaux - [cc by nc sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).<br><div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>'
+
     license:
       enable: false
       allow_derivatives: true
       share_alike: true
-      allow_commercial: true
+      allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan 2006'
   time_format: '3:04 PM'
   address_format: fr-fr
 
@@ -70,7 +73,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/mapperfr/mapperfr-source'
+    # url: 'https://github.com/mapperfr/mapperfr-source'
+    url: 'https://code.mapper.fr/jeremy/mapperfr-source'
     content_dir: content
     branch: master
   avatar:
