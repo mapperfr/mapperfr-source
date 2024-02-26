@@ -13,6 +13,9 @@ tags:
   - vélo
 
 ---
+
+_Récit d'un voyage en vélo couché au milieu de l'été 2017._
+
 ## **5 août**
 
 _Arles, Saintes-Maries-de-la-Mer,_
@@ -90,6 +93,8 @@ _Nis­san-lez-Enserune, Cour­san, Car­bone, Bages, Peyr­i­ac-de-Mer, Sigean_
 — cas­cade de pen­sées soli­taires, ligne droite déjà bien fréquen­tée de bon matin la D6009 se prendrait presque pour une Nationale, il faut que je fasse atten­tion à ne pas trop par­ler tout seul quand même —
 
 _Por­tel-des-Cor­bières_,
+
+— enfin les Corbières, plus de relief mais moins de voitures et le soleil commence à taper, il y a ici moins d’arbres et beaucoup plus de vignes que ce que j’imaginais, un bain de rivière matinal serait bien,
 
 ![](albums/carnet/trois-jours-allonges/IMG_20170807_095543367.jpg)
 

@@ -1,10 +1,10 @@
 ---
 title: Git, Gitlab, Github... Qu'ès aco?
-summary: ''
+summary: 'Introduction à la journée "Explorer le potentiel de Git et Gitlab" organisée à la MMSH.'
 authors: [Jérémy Garniaux]
 tags: [git, gitlab, github, vcs]
 categories: []
-date: "2023-12-11"
+date: "2023-12-12"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -13,7 +13,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
   reveal_options:
-   transition: 'none'
+    transition: 'none'
 ---
 
 ### Git, Gitlab, Github... Qu'es aquò?
